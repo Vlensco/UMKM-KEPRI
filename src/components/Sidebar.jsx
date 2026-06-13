@@ -57,15 +57,8 @@ export default function Sidebar({
       >
         {/* Logo Section */}
         <div className="sidebar-logo-section">
-          <div className="logo-badge" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '4px' }}>
-            <svg viewBox="0 0 100 100" style={{ width: '100%', height: '100%' }}>
-              <path d="M50,15 L18,80 L82,80 Z" fill="none" stroke="var(--success)" strokeWidth="8" strokeLinejoin="round" />
-              <line x1="50" y1="35" x2="31" y2="80" stroke="var(--primary)" strokeWidth="4" />
-              <line x1="50" y1="35" x2="69" y2="80" stroke="var(--primary)" strokeWidth="4" />
-              <line x1="50" y1="55" x2="40" y2="80" stroke="var(--primary)" strokeWidth="4" />
-              <line x1="50" y1="55" x2="60" y2="80" stroke="var(--primary)" strokeWidth="4" />
-              <line x1="10" y1="80" x2="90" y2="80" stroke="var(--primary)" strokeWidth="8" strokeLinecap="round" />
-            </svg>
+          <div className="logo-badge" style={{ backgroundColor: 'transparent', border: 'none', boxShadow: 'none', width: '40px', height: '40px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            <img src="/logo_batam.png" alt="Logo Batam" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
           </div>
           <div>
             <h1 className="logo-text-title">BATAM UMKM</h1>
