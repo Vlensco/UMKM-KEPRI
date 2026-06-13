@@ -38,9 +38,10 @@ export default function Sidebar({
         style={{
           position: 'fixed',
           top: '16px',
-          left: '16px',
+          left: sidebarOpen ? '232px' : '16px',
           zIndex: 50,
-          display: 'flex'
+          display: 'flex',
+          transition: 'left 0.3s ease'
         }}
         className="icon-btn lg-hidden-btn"
       >
@@ -56,8 +57,15 @@ export default function Sidebar({
       >
         {/* Logo Section */}
         <div className="sidebar-logo-section">
-          <div className="logo-badge">
-            BU
+          <div className="logo-badge" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '4px' }}>
+            <svg viewBox="0 0 100 100" style={{ width: '100%', height: '100%' }}>
+              <path d="M50,15 L18,80 L82,80 Z" fill="none" stroke="var(--success)" strokeWidth="8" strokeLinejoin="round" />
+              <line x1="50" y1="35" x2="31" y2="80" stroke="var(--primary)" strokeWidth="4" />
+              <line x1="50" y1="35" x2="69" y2="80" stroke="var(--primary)" strokeWidth="4" />
+              <line x1="50" y1="55" x2="40" y2="80" stroke="var(--primary)" strokeWidth="4" />
+              <line x1="50" y1="55" x2="60" y2="80" stroke="var(--primary)" strokeWidth="4" />
+              <line x1="10" y1="80" x2="90" y2="80" stroke="var(--primary)" strokeWidth="8" strokeLinecap="round" />
+            </svg>
           </div>
           <div>
             <h1 className="logo-text-title">BATAM UMKM</h1>
