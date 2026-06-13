@@ -1,0 +1,601 @@
+fact_id	year	kecamatan_id	kecamatan	sector_id	sector_name	umkm_count	employment_est	estimated_revenue_million_idr	digital_adoption_pct	formalization_rate_pct	data_status
+1	2020	BATAM-BAJ	Batu Aji	SEK-DIG	Digital & Kreatif	87	122	11275,2	67,5	35,3	Derived from fact_umkm_kelurahan_sector
+2	2020	BATAM-BAJ	Batu Aji	SEK-FAS	Fashion & Aksesoris	256	487	18739,2	46,5	32,7	Derived from fact_umkm_kelurahan_sector
+3	2020	BATAM-BAJ	Batu Aji	SEK-JAS	Jasa Personal	305	536	20496	37,9	30,8	Derived from fact_umkm_kelurahan_sector
+4	2020	BATAM-BAJ	Batu Aji	SEK-KER	Kerajinan & Souvenir	159	253	8967,6	51,3	32,1	Derived from fact_umkm_kelurahan_sector
+5	2020	BATAM-BAJ	Batu Aji	SEK-KUL	Kuliner & Makanan	564	1422	50760	38,1	26,9	Derived from fact_umkm_kelurahan_sector
+6	2020	BATAM-BAJ	Batu Aji	SEK-LOG	Transportasi & Logistik Mikro	164	262	13972,8	48,2	30,4	Derived from fact_umkm_kelurahan_sector
+7	2020	BATAM-BAJ	Batu Aji	SEK-OTM	Otomotif & Repair	124	196	10862,4	39	29,1	Derived from fact_umkm_kelurahan_sector
+8	2020	BATAM-BAJ	Batu Aji	SEK-PAR	Pariwisata & Akomodasi Mikro	86	183	9804	57	33,6	Derived from fact_umkm_kelurahan_sector
+9	2020	BATAM-BAJ	Batu Aji	SEK-PRK	Perikanan & Olahan Laut	196	355	15993,6	22	26,3	Derived from fact_umkm_kelurahan_sector
+10	2020	BATAM-BAJ	Batu Aji	SEK-RIT	Retail & Perdagangan	460	1024	45264	34,3	26,8	Derived from fact_umkm_kelurahan_sector
+11	2020	BATAM-BAM	Batu Ampar	SEK-DIG	Digital & Kreatif	36	51	4665,6	66,3	37,1	Derived from fact_umkm_kelurahan_sector
+12	2020	BATAM-BAM	Batu Ampar	SEK-FAS	Fashion & Aksesoris	121	238	8857,2	52,8	29,9	Derived from fact_umkm_kelurahan_sector
+13	2020	BATAM-BAM	Batu Ampar	SEK-JAS	Jasa Personal	139	229	9340,8	42	29,6	Derived from fact_umkm_kelurahan_sector
+14	2020	BATAM-BAM	Batu Ampar	SEK-KER	Kerajinan & Souvenir	71	100	4004,4	49,7	31,2	Derived from fact_umkm_kelurahan_sector
+15	2020	BATAM-BAM	Batu Ampar	SEK-KUL	Kuliner & Makanan	165	453	14850	36,1	28,7	Derived from fact_umkm_kelurahan_sector
+16	2020	BATAM-BAM	Batu Ampar	SEK-LOG	Transportasi & Logistik Mikro	109	186	9286,8	44,9	31,9	Derived from fact_umkm_kelurahan_sector
+17	2020	BATAM-BAM	Batu Ampar	SEK-OTM	Otomotif & Repair	54	96	4730,4	37,3	29	Derived from fact_umkm_kelurahan_sector
+18	2020	BATAM-BAM	Batu Ampar	SEK-PAR	Pariwisata & Akomodasi Mikro	35	70	3990	60,3	35,7	Derived from fact_umkm_kelurahan_sector
+19	2020	BATAM-BAM	Batu Ampar	SEK-PRK	Perikanan & Olahan Laut	80	160	6528	25,3	27,8	Derived from fact_umkm_kelurahan_sector
+20	2020	BATAM-BAM	Batu Ampar	SEK-RIT	Retail & Perdagangan	158	359	15547,2	33,2	30,2	Derived from fact_umkm_kelurahan_sector
+21	2020	BATAM-BKG	Bengkong	SEK-DIG	Digital & Kreatif	79	111	10238,4	66,9	35,2	Derived from fact_umkm_kelurahan_sector
+22	2020	BATAM-BKG	Bengkong	SEK-FAS	Fashion & Aksesoris	225	439	16470	53,5	35,7	Derived from fact_umkm_kelurahan_sector
+23	2020	BATAM-BKG	Bengkong	SEK-JAS	Jasa Personal	301	524	20227,2	41	31,8	Derived from fact_umkm_kelurahan_sector
+24	2020	BATAM-BKG	Bengkong	SEK-KER	Kerajinan & Souvenir	164	269	9249,6	49,7	29,8	Derived from fact_umkm_kelurahan_sector
+25	2020	BATAM-BKG	Bengkong	SEK-KUL	Kuliner & Makanan	514	1526	46260	43,4	31,5	Derived from fact_umkm_kelurahan_sector
+26	2020	BATAM-BKG	Bengkong	SEK-LOG	Transportasi & Logistik Mikro	166	283	14143,2	47,2	28,7	Derived from fact_umkm_kelurahan_sector
+27	2020	BATAM-BKG	Bengkong	SEK-OTM	Otomotif & Repair	123	206	10774,8	36,7	29,4	Derived from fact_umkm_kelurahan_sector
+28	2020	BATAM-BKG	Bengkong	SEK-PAR	Pariwisata & Akomodasi Mikro	88	174	10032	58,7	30,8	Derived from fact_umkm_kelurahan_sector
+29	2020	BATAM-BKG	Bengkong	SEK-PRK	Perikanan & Olahan Laut	180	325	14688	21,3	26,3	Derived from fact_umkm_kelurahan_sector
+30	2020	BATAM-BKG	Bengkong	SEK-RIT	Retail & Perdagangan	492	1225	48412,8	34	26,6	Derived from fact_umkm_kelurahan_sector
+31	2020	BATAM-BLG	Bulang	SEK-DIG	Digital & Kreatif	6	7	777,6	72,7	34,9	Derived from fact_umkm_kelurahan_sector
+32	2020	BATAM-BLG	Bulang	SEK-FAS	Fashion & Aksesoris	12	21	878,4	54,7	33,2	Derived from fact_umkm_kelurahan_sector
+33	2020	BATAM-BLG	Bulang	SEK-JAS	Jasa Personal	12	21	806,4	43,2	31,5	Derived from fact_umkm_kelurahan_sector
+34	2020	BATAM-BLG	Bulang	SEK-KER	Kerajinan & Souvenir	12	18	676,8	51	31,2	Derived from fact_umkm_kelurahan_sector
+35	2020	BATAM-BLG	Bulang	SEK-KUL	Kuliner & Makanan	18	45	1620	39	28,4	Derived from fact_umkm_kelurahan_sector
+36	2020	BATAM-BLG	Bulang	SEK-LOG	Transportasi & Logistik Mikro	12	20	1022,4	44,2	30,2	Derived from fact_umkm_kelurahan_sector
+37	2020	BATAM-BLG	Bulang	SEK-OTM	Otomotif & Repair	12	21	1051,2	36,7	26,4	Derived from fact_umkm_kelurahan_sector
+38	2020	BATAM-BLG	Bulang	SEK-PAR	Pariwisata & Akomodasi Mikro	6	12	684	55,5	33	Derived from fact_umkm_kelurahan_sector
+39	2020	BATAM-BLG	Bulang	SEK-PRK	Perikanan & Olahan Laut	15	28	1224	26,5	25,1	Derived from fact_umkm_kelurahan_sector
+40	2020	BATAM-BLG	Bulang	SEK-RIT	Retail & Perdagangan	15	34	1476	32,7	28,9	Derived from fact_umkm_kelurahan_sector
+41	2020	BATAM-BLP	Belakang Padang	SEK-DIG	Digital & Kreatif	7	9	907,2	67,9	35,4	Derived from fact_umkm_kelurahan_sector
+42	2020	BATAM-BLP	Belakang Padang	SEK-FAS	Fashion & Aksesoris	21	41	1537,2	53,7	33,7	Derived from fact_umkm_kelurahan_sector
+43	2020	BATAM-BLP	Belakang Padang	SEK-JAS	Jasa Personal	26	46	1747,2	40,2	29,1	Derived from fact_umkm_kelurahan_sector
+44	2020	BATAM-BLP	Belakang Padang	SEK-KER	Kerajinan & Souvenir	14	21	789,6	49,9	34,3	Derived from fact_umkm_kelurahan_sector
+45	2020	BATAM-BLP	Belakang Padang	SEK-KUL	Kuliner & Makanan	36	99	3240	35,6	27,3	Derived from fact_umkm_kelurahan_sector
+46	2020	BATAM-BLP	Belakang Padang	SEK-LOG	Transportasi & Logistik Mikro	14	26	1192,8	44,1	28	Derived from fact_umkm_kelurahan_sector
+47	2020	BATAM-BLP	Belakang Padang	SEK-OTM	Otomotif & Repair	14	22	1226,4	36,4	28,6	Derived from fact_umkm_kelurahan_sector
+48	2020	BATAM-BLP	Belakang Padang	SEK-PAR	Pariwisata & Akomodasi Mikro	7	14	798	56,1	33,1	Derived from fact_umkm_kelurahan_sector
+49	2020	BATAM-BLP	Belakang Padang	SEK-PRK	Perikanan & Olahan Laut	32	59	2611,2	26,8	27,4	Derived from fact_umkm_kelurahan_sector
+50	2020	BATAM-BLP	Belakang Padang	SEK-RIT	Retail & Perdagangan	32	81	3148,8	34,5	28,3	Derived from fact_umkm_kelurahan_sector
+51	2020	BATAM-BTK	Batam Kota	SEK-DIG	Digital & Kreatif	174	243	22550,4	67,8	33,5	Derived from fact_umkm_kelurahan_sector
+52	2020	BATAM-BTK	Batam Kota	SEK-FAS	Fashion & Aksesoris	301	556	22033,2	48,6	30,9	Derived from fact_umkm_kelurahan_sector
+53	2020	BATAM-BTK	Batam Kota	SEK-JAS	Jasa Personal	373	652	25065,6	41	29,6	Derived from fact_umkm_kelurahan_sector
+54	2020	BATAM-BTK	Batam Kota	SEK-KER	Kerajinan & Souvenir	196	317	11054,4	50,4	29,8	Derived from fact_umkm_kelurahan_sector
+55	2020	BATAM-BTK	Batam Kota	SEK-KUL	Kuliner & Makanan	471	1282	42390	38	25,8	Derived from fact_umkm_kelurahan_sector
+56	2020	BATAM-BTK	Batam Kota	SEK-LOG	Transportasi & Logistik Mikro	207	337	17636,4	44,5	29,1	Derived from fact_umkm_kelurahan_sector
+57	2020	BATAM-BTK	Batam Kota	SEK-OTM	Otomotif & Repair	157	267	13753,2	35,4	26,2	Derived from fact_umkm_kelurahan_sector
+58	2020	BATAM-BTK	Batam Kota	SEK-PAR	Pariwisata & Akomodasi Mikro	104	230	11856	58,4	34,7	Derived from fact_umkm_kelurahan_sector
+59	2020	BATAM-BTK	Batam Kota	SEK-PRK	Perikanan & Olahan Laut	224	415	18278,4	20,5	23,7	Derived from fact_umkm_kelurahan_sector
+60	2020	BATAM-BTK	Batam Kota	SEK-RIT	Retail & Perdagangan	448	994	44083,2	38,4	30,3	Derived from fact_umkm_kelurahan_sector
+61	2020	BATAM-GLG	Galang	SEK-DIG	Digital & Kreatif	8	12	1036,8	67,5	34,3	Derived from fact_umkm_kelurahan_sector
+62	2020	BATAM-GLG	Galang	SEK-FAS	Fashion & Aksesoris	17	34	1244,4	51,1	31,1	Derived from fact_umkm_kelurahan_sector
+63	2020	BATAM-GLG	Galang	SEK-JAS	Jasa Personal	21	37	1411,2	41,4	29,6	Derived from fact_umkm_kelurahan_sector
+64	2020	BATAM-GLG	Galang	SEK-KER	Kerajinan & Souvenir	16	24	902,4	48,6	31,6	Derived from fact_umkm_kelurahan_sector
+65	2020	BATAM-GLG	Galang	SEK-KUL	Kuliner & Makanan	28	78	2520	38,1	27,6	Derived from fact_umkm_kelurahan_sector
+66	2020	BATAM-GLG	Galang	SEK-LOG	Transportasi & Logistik Mikro	16	26	1363,2	45,1	30,7	Derived from fact_umkm_kelurahan_sector
+67	2020	BATAM-GLG	Galang	SEK-OTM	Otomotif & Repair	16	27	1401,6	37,4	28,4	Derived from fact_umkm_kelurahan_sector
+68	2020	BATAM-GLG	Galang	SEK-PAR	Pariwisata & Akomodasi Mikro	8	16	912	56,8	32,8	Derived from fact_umkm_kelurahan_sector
+69	2020	BATAM-GLG	Galang	SEK-PRK	Perikanan & Olahan Laut	25	46	2040	27,2	25,9	Derived from fact_umkm_kelurahan_sector
+70	2020	BATAM-GLG	Galang	SEK-RIT	Retail & Perdagangan	25	58	2460	33,7	29,7	Derived from fact_umkm_kelurahan_sector
+71	2020	BATAM-LBJ	Lubuk Baja	SEK-DIG	Digital & Kreatif	63	93	8164,8	68,5	34,3	Derived from fact_umkm_kelurahan_sector
+72	2020	BATAM-LBJ	Lubuk Baja	SEK-FAS	Fashion & Aksesoris	185	347	13542	53,4	31,8	Derived from fact_umkm_kelurahan_sector
+73	2020	BATAM-LBJ	Lubuk Baja	SEK-JAS	Jasa Personal	219	397	14716,8	38,9	29,7	Derived from fact_umkm_kelurahan_sector
+74	2020	BATAM-LBJ	Lubuk Baja	SEK-KER	Kerajinan & Souvenir	118	201	6655,2	51,4	33,1	Derived from fact_umkm_kelurahan_sector
+75	2020	BATAM-LBJ	Lubuk Baja	SEK-KUL	Kuliner & Makanan	294	697	26460	39,3	28,5	Derived from fact_umkm_kelurahan_sector
+76	2020	BATAM-LBJ	Lubuk Baja	SEK-LOG	Transportasi & Logistik Mikro	132	231	11246,4	45,5	31,5	Derived from fact_umkm_kelurahan_sector
+77	2020	BATAM-LBJ	Lubuk Baja	SEK-OTM	Otomotif & Repair	90	150	7884	38,8	31,5	Derived from fact_umkm_kelurahan_sector
+78	2020	BATAM-LBJ	Lubuk Baja	SEK-PAR	Pariwisata & Akomodasi Mikro	103	228	11742	53,5	30,2	Derived from fact_umkm_kelurahan_sector
+79	2020	BATAM-LBJ	Lubuk Baja	SEK-PRK	Perikanan & Olahan Laut	133	226	10852,8	22,2	23,1	Derived from fact_umkm_kelurahan_sector
+80	2020	BATAM-LBJ	Lubuk Baja	SEK-RIT	Retail & Perdagangan	274	626	26961,6	32,3	26,1	Derived from fact_umkm_kelurahan_sector
+81	2020	BATAM-NGS	Nongsa	SEK-DIG	Digital & Kreatif	107	165	13867,2	66,4	35,1	Derived from fact_umkm_kelurahan_sector
+82	2020	BATAM-NGS	Nongsa	SEK-FAS	Fashion & Aksesoris	170	345	12444	52,1	35,6	Derived from fact_umkm_kelurahan_sector
+83	2020	BATAM-NGS	Nongsa	SEK-JAS	Jasa Personal	230	376	15456	42,1	26,9	Derived from fact_umkm_kelurahan_sector
+84	2020	BATAM-NGS	Nongsa	SEK-KER	Kerajinan & Souvenir	116	167	6542,4	48,9	31,5	Derived from fact_umkm_kelurahan_sector
+85	2020	BATAM-NGS	Nongsa	SEK-KUL	Kuliner & Makanan	270	722	24300	36,9	29,9	Derived from fact_umkm_kelurahan_sector
+86	2020	BATAM-NGS	Nongsa	SEK-LOG	Transportasi & Logistik Mikro	121	198	10309,2	45,4	32,3	Derived from fact_umkm_kelurahan_sector
+87	2020	BATAM-NGS	Nongsa	SEK-OTM	Otomotif & Repair	95	159	8322	35,7	29	Derived from fact_umkm_kelurahan_sector
+88	2020	BATAM-NGS	Nongsa	SEK-PAR	Pariwisata & Akomodasi Mikro	98	193	11172	58,1	32,4	Derived from fact_umkm_kelurahan_sector
+89	2020	BATAM-NGS	Nongsa	SEK-PRK	Perikanan & Olahan Laut	131	256	10689,6	26	25,9	Derived from fact_umkm_kelurahan_sector
+90	2020	BATAM-NGS	Nongsa	SEK-RIT	Retail & Perdagangan	256	618	25190,4	36,1	30,3	Derived from fact_umkm_kelurahan_sector
+91	2020	BATAM-SBD	Sungai Beduk	SEK-DIG	Digital & Kreatif	62	81	8035,2	67,9	35,3	Derived from fact_umkm_kelurahan_sector
+92	2020	BATAM-SBD	Sungai Beduk	SEK-FAS	Fashion & Aksesoris	167	319	12224,4	52	31,8	Derived from fact_umkm_kelurahan_sector
+93	2020	BATAM-SBD	Sungai Beduk	SEK-JAS	Jasa Personal	216	375	14515,2	41,3	29,1	Derived from fact_umkm_kelurahan_sector
+94	2020	BATAM-SBD	Sungai Beduk	SEK-KER	Kerajinan & Souvenir	116	196	6542,4	52,8	31,3	Derived from fact_umkm_kelurahan_sector
+95	2020	BATAM-SBD	Sungai Beduk	SEK-KUL	Kuliner & Makanan	298	839	26820	40	27,4	Derived from fact_umkm_kelurahan_sector
+96	2020	BATAM-SBD	Sungai Beduk	SEK-LOG	Transportasi & Logistik Mikro	123	190	10479,6	45,5	29,2	Derived from fact_umkm_kelurahan_sector
+97	2020	BATAM-SBD	Sungai Beduk	SEK-OTM	Otomotif & Repair	96	147	8409,6	38	27,9	Derived from fact_umkm_kelurahan_sector
+98	2020	BATAM-SBD	Sungai Beduk	SEK-PAR	Pariwisata & Akomodasi Mikro	62	122	7068	57,6	34	Derived from fact_umkm_kelurahan_sector
+99	2020	BATAM-SBD	Sungai Beduk	SEK-PRK	Perikanan & Olahan Laut	132	221	10771,2	22,3	23,8	Derived from fact_umkm_kelurahan_sector
+100	2020	BATAM-SBD	Sungai Beduk	SEK-RIT	Retail & Perdagangan	262	582	25780,8	30,6	24,8	Derived from fact_umkm_kelurahan_sector
+101	2020	BATAM-SGL	Sagulung	SEK-DIG	Digital & Kreatif	131	198	16977,6	71,3	37,2	Derived from fact_umkm_kelurahan_sector
+102	2020	BATAM-SGL	Sagulung	SEK-FAS	Fashion & Aksesoris	376	743	27523,2	53,1	30,2	Derived from fact_umkm_kelurahan_sector
+103	2020	BATAM-SGL	Sagulung	SEK-JAS	Jasa Personal	454	743	30508,8	39,7	28,5	Derived from fact_umkm_kelurahan_sector
+104	2020	BATAM-SGL	Sagulung	SEK-KER	Kerajinan & Souvenir	251	384	14156,4	47,1	31,3	Derived from fact_umkm_kelurahan_sector
+105	2020	BATAM-SGL	Sagulung	SEK-KUL	Kuliner & Makanan	799	2176	71910	39,2	31,5	Derived from fact_umkm_kelurahan_sector
+106	2020	BATAM-SGL	Sagulung	SEK-LOG	Transportasi & Logistik Mikro	265	415	22578	45,1	29	Derived from fact_umkm_kelurahan_sector
+107	2020	BATAM-SGL	Sagulung	SEK-OTM	Otomotif & Repair	190	324	16644	39,1	27,6	Derived from fact_umkm_kelurahan_sector
+108	2020	BATAM-SGL	Sagulung	SEK-PAR	Pariwisata & Akomodasi Mikro	137	276	15618	57,7	32,7	Derived from fact_umkm_kelurahan_sector
+109	2020	BATAM-SGL	Sagulung	SEK-PRK	Perikanan & Olahan Laut	287	526	23419,2	26,5	23,7	Derived from fact_umkm_kelurahan_sector
+110	2020	BATAM-SGL	Sagulung	SEK-RIT	Retail & Perdagangan	718	1643	70651,2	33,9	26,2	Derived from fact_umkm_kelurahan_sector
+111	2020	BATAM-SKP	Sekupang	SEK-DIG	Digital & Kreatif	90	130	11664	70,1	36,7	Derived from fact_umkm_kelurahan_sector
+112	2020	BATAM-SKP	Sekupang	SEK-FAS	Fashion & Aksesoris	263	553	19251,6	52,6	31,7	Derived from fact_umkm_kelurahan_sector
+113	2020	BATAM-SKP	Sekupang	SEK-JAS	Jasa Personal	329	559	22108,8	40,6	30,2	Derived from fact_umkm_kelurahan_sector
+114	2020	BATAM-SKP	Sekupang	SEK-KER	Kerajinan & Souvenir	170	265	9588	49	31,2	Derived from fact_umkm_kelurahan_sector
+115	2020	BATAM-SKP	Sekupang	SEK-KUL	Kuliner & Makanan	431	1065	38790	39,1	26,4	Derived from fact_umkm_kelurahan_sector
+116	2020	BATAM-SKP	Sekupang	SEK-LOG	Transportasi & Logistik Mikro	283	433	24111,6	44,6	30,5	Derived from fact_umkm_kelurahan_sector
+117	2020	BATAM-SKP	Sekupang	SEK-OTM	Otomotif & Repair	138	243	12088,8	37,9	27,6	Derived from fact_umkm_kelurahan_sector
+118	2020	BATAM-SKP	Sekupang	SEK-PAR	Pariwisata & Akomodasi Mikro	94	201	10716	58,6	32,8	Derived from fact_umkm_kelurahan_sector
+119	2020	BATAM-SKP	Sekupang	SEK-PRK	Perikanan & Olahan Laut	211	397	17217,6	25,5	25,6	Derived from fact_umkm_kelurahan_sector
+120	2020	BATAM-SKP	Sekupang	SEK-RIT	Retail & Perdagangan	393	937	38671,2	35,7	28,1	Derived from fact_umkm_kelurahan_sector
+121	2021	BATAM-BAJ	Batu Aji	SEK-DIG	Digital & Kreatif	97	144	13074	71,6	40,3	Derived from fact_umkm_kelurahan_sector
+122	2021	BATAM-BAJ	Batu Aji	SEK-FAS	Fashion & Aksesoris	268	516	20402,3	57,9	38,1	Derived from fact_umkm_kelurahan_sector
+123	2021	BATAM-BAJ	Batu Aji	SEK-JAS	Jasa Personal	285	522	19918,2	47,7	36,6	Derived from fact_umkm_kelurahan_sector
+124	2021	BATAM-BAJ	Batu Aji	SEK-KER	Kerajinan & Souvenir	163	258	9561	53,3	37	Derived from fact_umkm_kelurahan_sector
+125	2021	BATAM-BAJ	Batu Aji	SEK-KUL	Kuliner & Makanan	584	1564	54662,4	42,6	35,7	Derived from fact_umkm_kelurahan_sector
+126	2021	BATAM-BAJ	Batu Aji	SEK-LOG	Transportasi & Logistik Mikro	170	266	15063,4	49,2	34,4	Derived from fact_umkm_kelurahan_sector
+127	2021	BATAM-BAJ	Batu Aji	SEK-OTM	Otomotif & Repair	130	215	11843,4	41,3	32,9	Derived from fact_umkm_kelurahan_sector
+128	2021	BATAM-BAJ	Batu Aji	SEK-PAR	Pariwisata & Akomodasi Mikro	114	243	13515,8	60,3	37,7	Derived from fact_umkm_kelurahan_sector
+129	2021	BATAM-BAJ	Batu Aji	SEK-PRK	Perikanan & Olahan Laut	198	377	16803,1	25,7	29,1	Derived from fact_umkm_kelurahan_sector
+130	2021	BATAM-BAJ	Batu Aji	SEK-RIT	Retail & Perdagangan	484	1148	49530,6	43,4	33	Derived from fact_umkm_kelurahan_sector
+131	2021	BATAM-BAM	Batu Ampar	SEK-DIG	Digital & Kreatif	46	67	6200	74,4	38,7	Derived from fact_umkm_kelurahan_sector
+132	2021	BATAM-BAM	Batu Ampar	SEK-FAS	Fashion & Aksesoris	116	243	8830,8	54,1	39,6	Derived from fact_umkm_kelurahan_sector
+133	2021	BATAM-BAM	Batu Ampar	SEK-JAS	Jasa Personal	139	247	9714,6	40,2	36,2	Derived from fact_umkm_kelurahan_sector
+134	2021	BATAM-BAM	Batu Ampar	SEK-KER	Kerajinan & Souvenir	71	110	4164,7	52,6	37,2	Derived from fact_umkm_kelurahan_sector
+135	2021	BATAM-BAM	Batu Ampar	SEK-KUL	Kuliner & Makanan	185	509	17316	42,8	34,1	Derived from fact_umkm_kelurahan_sector
+136	2021	BATAM-BAM	Batu Ampar	SEK-LOG	Transportasi & Logistik Mikro	128	202	11341,9	48	36,4	Derived from fact_umkm_kelurahan_sector
+137	2021	BATAM-BAM	Batu Ampar	SEK-OTM	Otomotif & Repair	55	98	5010,9	42,9	37,3	Derived from fact_umkm_kelurahan_sector
+138	2021	BATAM-BAM	Batu Ampar	SEK-PAR	Pariwisata & Akomodasi Mikro	47	94	5572,4	60,7	37,3	Derived from fact_umkm_kelurahan_sector
+139	2021	BATAM-BAM	Batu Ampar	SEK-PRK	Perikanan & Olahan Laut	90	185	7637,7	24,7	30,4	Derived from fact_umkm_kelurahan_sector
+140	2021	BATAM-BAM	Batu Ampar	SEK-RIT	Retail & Perdagangan	172	398	17601,8	35	34,4	Derived from fact_umkm_kelurahan_sector
+141	2021	BATAM-BKG	Bengkong	SEK-DIG	Digital & Kreatif	94	143	12669,8	72,4	39,5	Derived from fact_umkm_kelurahan_sector
+142	2021	BATAM-BKG	Bengkong	SEK-FAS	Fashion & Aksesoris	243	512	18499,1	53,4	36,8	Derived from fact_umkm_kelurahan_sector
+143	2021	BATAM-BKG	Bengkong	SEK-JAS	Jasa Personal	291	519	20337,4	46,9	34,4	Derived from fact_umkm_kelurahan_sector
+144	2021	BATAM-BKG	Bengkong	SEK-KER	Kerajinan & Souvenir	165	238	9678,3	54,8	37,5	Derived from fact_umkm_kelurahan_sector
+145	2021	BATAM-BKG	Bengkong	SEK-KUL	Kuliner & Makanan	536	1347	50169,6	42,6	32,6	Derived from fact_umkm_kelurahan_sector
+146	2021	BATAM-BKG	Bengkong	SEK-LOG	Transportasi & Logistik Mikro	172	288	15240,5	49,1	34,8	Derived from fact_umkm_kelurahan_sector
+147	2021	BATAM-BKG	Bengkong	SEK-OTM	Otomotif & Repair	128	218	11661,3	42,2	35,1	Derived from fact_umkm_kelurahan_sector
+148	2021	BATAM-BKG	Bengkong	SEK-PAR	Pariwisata & Akomodasi Mikro	109	235	12923	60,8	38,6	Derived from fact_umkm_kelurahan_sector
+149	2021	BATAM-BKG	Bengkong	SEK-PRK	Perikanan & Olahan Laut	177	319	15021	25,4	29,3	Derived from fact_umkm_kelurahan_sector
+150	2021	BATAM-BKG	Bengkong	SEK-RIT	Retail & Perdagangan	481	1151	49223,6	40,9	36,4	Derived from fact_umkm_kelurahan_sector
+151	2021	BATAM-BLG	Bulang	SEK-DIG	Digital & Kreatif	12	16	1617,6	71,5	42,2	Derived from fact_umkm_kelurahan_sector
+152	2021	BATAM-BLG	Bulang	SEK-FAS	Fashion & Aksesoris	12	22	913,8	55,8	38,1	Derived from fact_umkm_kelurahan_sector
+153	2021	BATAM-BLG	Bulang	SEK-JAS	Jasa Personal	13	23	908,7	43,2	36,6	Derived from fact_umkm_kelurahan_sector
+154	2021	BATAM-BLG	Bulang	SEK-KER	Kerajinan & Souvenir	12	18	703,8	50,7	35	Derived from fact_umkm_kelurahan_sector
+155	2021	BATAM-BLG	Bulang	SEK-KUL	Kuliner & Makanan	18	48	1684,8	44,7	33,6	Derived from fact_umkm_kelurahan_sector
+156	2021	BATAM-BLG	Bulang	SEK-LOG	Transportasi & Logistik Mikro	12	19	1063,2	50,5	36,4	Derived from fact_umkm_kelurahan_sector
+157	2021	BATAM-BLG	Bulang	SEK-OTM	Otomotif & Repair	12	19	1093,2	43,2	34,8	Derived from fact_umkm_kelurahan_sector
+158	2021	BATAM-BLG	Bulang	SEK-PAR	Pariwisata & Akomodasi Mikro	6	12	711,6	63,8	40	Derived from fact_umkm_kelurahan_sector
+159	2021	BATAM-BLG	Bulang	SEK-PRK	Perikanan & Olahan Laut	17	30	1442,7	26,6	31,6	Derived from fact_umkm_kelurahan_sector
+160	2021	BATAM-BLG	Bulang	SEK-RIT	Retail & Perdagangan	16	38	1637,4	38,8	33,5	Derived from fact_umkm_kelurahan_sector
+161	2021	BATAM-BLP	Belakang Padang	SEK-DIG	Digital & Kreatif	14	21	1887,2	71	42,1	Derived from fact_umkm_kelurahan_sector
+162	2021	BATAM-BLP	Belakang Padang	SEK-FAS	Fashion & Aksesoris	25	52	1903,2	56,3	38,5	Derived from fact_umkm_kelurahan_sector
+163	2021	BATAM-BLP	Belakang Padang	SEK-JAS	Jasa Personal	27	46	1887,3	46,1	36,4	Derived from fact_umkm_kelurahan_sector
+164	2021	BATAM-BLP	Belakang Padang	SEK-KER	Kerajinan & Souvenir	14	22	821,1	51,6	38,5	Derived from fact_umkm_kelurahan_sector
+165	2021	BATAM-BLP	Belakang Padang	SEK-KUL	Kuliner & Makanan	37	100	3463,2	41,3	37,1	Derived from fact_umkm_kelurahan_sector
+166	2021	BATAM-BLP	Belakang Padang	SEK-LOG	Transportasi & Logistik Mikro	17	28	1506,2	47,8	36,4	Derived from fact_umkm_kelurahan_sector
+167	2021	BATAM-BLP	Belakang Padang	SEK-OTM	Otomotif & Repair	14	23	1275,4	42,7	35,6	Derived from fact_umkm_kelurahan_sector
+168	2021	BATAM-BLP	Belakang Padang	SEK-PAR	Pariwisata & Akomodasi Mikro	7	14	830,2	60,1	38,3	Derived from fact_umkm_kelurahan_sector
+169	2021	BATAM-BLP	Belakang Padang	SEK-PRK	Perikanan & Olahan Laut	34	67	2885,3	27,3	32,7	Derived from fact_umkm_kelurahan_sector
+170	2021	BATAM-BLP	Belakang Padang	SEK-RIT	Retail & Perdagangan	33	76	3377,1	39,2	34,9	Derived from fact_umkm_kelurahan_sector
+171	2021	BATAM-BTK	Batam Kota	SEK-DIG	Digital & Kreatif	212	297	28574,2	73,8	43,8	Derived from fact_umkm_kelurahan_sector
+172	2021	BATAM-BTK	Batam Kota	SEK-FAS	Fashion & Aksesoris	313	633	23828,1	55,3	39,2	Derived from fact_umkm_kelurahan_sector
+173	2021	BATAM-BTK	Batam Kota	SEK-JAS	Jasa Personal	370	685	25858,5	42,8	35,2	Derived from fact_umkm_kelurahan_sector
+174	2021	BATAM-BTK	Batam Kota	SEK-KER	Kerajinan & Souvenir	197	317	11555,2	51,1	35,1	Derived from fact_umkm_kelurahan_sector
+175	2021	BATAM-BTK	Batam Kota	SEK-KUL	Kuliner & Makanan	529	1425	49514,4	43,5	34,3	Derived from fact_umkm_kelurahan_sector
+176	2021	BATAM-BTK	Batam Kota	SEK-LOG	Transportasi & Logistik Mikro	223	362	19759,5	51,1	36,3	Derived from fact_umkm_kelurahan_sector
+177	2021	BATAM-BTK	Batam Kota	SEK-OTM	Otomotif & Repair	161	264	14667,7	40,1	33,4	Derived from fact_umkm_kelurahan_sector
+178	2021	BATAM-BTK	Batam Kota	SEK-PAR	Pariwisata & Akomodasi Mikro	129	267	15294,2	61,5	40,5	Derived from fact_umkm_kelurahan_sector
+179	2021	BATAM-BTK	Batam Kota	SEK-PRK	Perikanan & Olahan Laut	234	413	19858,3	29,9	33,5	Derived from fact_umkm_kelurahan_sector
+180	2021	BATAM-BTK	Batam Kota	SEK-RIT	Retail & Perdagangan	452	1051	46255,9	36,3	33,5	Derived from fact_umkm_kelurahan_sector
+181	2021	BATAM-GLG	Galang	SEK-DIG	Digital & Kreatif	16	24	2156,8	72,5	41,1	Derived from fact_umkm_kelurahan_sector
+182	2021	BATAM-GLG	Galang	SEK-FAS	Fashion & Aksesoris	18	34	1370,6	56,3	38,4	Derived from fact_umkm_kelurahan_sector
+183	2021	BATAM-GLG	Galang	SEK-JAS	Jasa Personal	23	38	1607,7	47,3	37,2	Derived from fact_umkm_kelurahan_sector
+184	2021	BATAM-GLG	Galang	SEK-KER	Kerajinan & Souvenir	16	25	938,4	50,8	38,1	Derived from fact_umkm_kelurahan_sector
+185	2021	BATAM-GLG	Galang	SEK-KUL	Kuliner & Makanan	30	79	2808	41,7	35,6	Derived from fact_umkm_kelurahan_sector
+186	2021	BATAM-GLG	Galang	SEK-LOG	Transportasi & Logistik Mikro	16	26	1417,6	50	36,4	Derived from fact_umkm_kelurahan_sector
+187	2021	BATAM-GLG	Galang	SEK-OTM	Otomotif & Repair	16	26	1457,6	42,2	35	Derived from fact_umkm_kelurahan_sector
+188	2021	BATAM-GLG	Galang	SEK-PAR	Pariwisata & Akomodasi Mikro	8	16	948,8	60,9	38,6	Derived from fact_umkm_kelurahan_sector
+189	2021	BATAM-GLG	Galang	SEK-PRK	Perikanan & Olahan Laut	26	50	2206,6	31,7	32	Derived from fact_umkm_kelurahan_sector
+190	2021	BATAM-GLG	Galang	SEK-RIT	Retail & Perdagangan	26	58	2660,6	37,3	33,4	Derived from fact_umkm_kelurahan_sector
+191	2021	BATAM-LBJ	Lubuk Baja	SEK-DIG	Digital & Kreatif	78	117	10513,1	73,6	42,4	Derived from fact_umkm_kelurahan_sector
+192	2021	BATAM-LBJ	Lubuk Baja	SEK-FAS	Fashion & Aksesoris	188	341	14312	54	37,6	Derived from fact_umkm_kelurahan_sector
+193	2021	BATAM-LBJ	Lubuk Baja	SEK-JAS	Jasa Personal	230	424	16074,1	45,2	35,1	Derived from fact_umkm_kelurahan_sector
+194	2021	BATAM-LBJ	Lubuk Baja	SEK-KER	Kerajinan & Souvenir	128	193	7508	57,6	35,4	Derived from fact_umkm_kelurahan_sector
+195	2021	BATAM-LBJ	Lubuk Baja	SEK-KUL	Kuliner & Makanan	313	858	29296,8	42,3	33,6	Derived from fact_umkm_kelurahan_sector
+196	2021	BATAM-LBJ	Lubuk Baja	SEK-LOG	Transportasi & Logistik Mikro	131	217	11607,6	48,9	37,4	Derived from fact_umkm_kelurahan_sector
+197	2021	BATAM-LBJ	Lubuk Baja	SEK-OTM	Otomotif & Repair	96	164	8746,1	42,5	33,7	Derived from fact_umkm_kelurahan_sector
+198	2021	BATAM-LBJ	Lubuk Baja	SEK-PAR	Pariwisata & Akomodasi Mikro	133	277	15768,4	60,6	39,9	Derived from fact_umkm_kelurahan_sector
+199	2021	BATAM-LBJ	Lubuk Baja	SEK-PRK	Perikanan & Olahan Laut	147	261	12474,9	29,2	33,9	Derived from fact_umkm_kelurahan_sector
+200	2021	BATAM-LBJ	Lubuk Baja	SEK-RIT	Retail & Perdagangan	268	621	27426	37,4	34,3	Derived from fact_umkm_kelurahan_sector
+201	2021	BATAM-NGS	Nongsa	SEK-DIG	Digital & Kreatif	128	179	17252,3	72	42,4	Derived from fact_umkm_kelurahan_sector
+202	2021	BATAM-NGS	Nongsa	SEK-FAS	Fashion & Aksesoris	190	351	14464,4	58,3	38,5	Derived from fact_umkm_kelurahan_sector
+203	2021	BATAM-NGS	Nongsa	SEK-JAS	Jasa Personal	218	378	15235,5	45,8	34,3	Derived from fact_umkm_kelurahan_sector
+204	2021	BATAM-NGS	Nongsa	SEK-KER	Kerajinan & Souvenir	111	179	6510,9	56,7	36	Derived from fact_umkm_kelurahan_sector
+205	2021	BATAM-NGS	Nongsa	SEK-KUL	Kuliner & Makanan	277	736	25927,2	39,7	34,1	Derived from fact_umkm_kelurahan_sector
+206	2021	BATAM-NGS	Nongsa	SEK-LOG	Transportasi & Logistik Mikro	122	186	10810,2	48,7	36,4	Derived from fact_umkm_kelurahan_sector
+207	2021	BATAM-NGS	Nongsa	SEK-OTM	Otomotif & Repair	96	150	8746	41,2	33,3	Derived from fact_umkm_kelurahan_sector
+208	2021	BATAM-NGS	Nongsa	SEK-PAR	Pariwisata & Akomodasi Mikro	127	249	15057,2	63	37,7	Derived from fact_umkm_kelurahan_sector
+209	2021	BATAM-NGS	Nongsa	SEK-PRK	Perikanan & Olahan Laut	139	273	11796,1	29,7	29,7	Derived from fact_umkm_kelurahan_sector
+210	2021	BATAM-NGS	Nongsa	SEK-RIT	Retail & Perdagangan	275	595	28142,3	36	32,6	Derived from fact_umkm_kelurahan_sector
+211	2021	BATAM-SBD	Sungai Beduk	SEK-DIG	Digital & Kreatif	77	102	10378,3	69,8	39,8	Derived from fact_umkm_kelurahan_sector
+212	2021	BATAM-SBD	Sungai Beduk	SEK-FAS	Fashion & Aksesoris	194	417	14768,9	56,7	40,2	Derived from fact_umkm_kelurahan_sector
+213	2021	BATAM-SBD	Sungai Beduk	SEK-JAS	Jasa Personal	237	431	16563,5	46,4	35,2	Derived from fact_umkm_kelurahan_sector
+214	2021	BATAM-SBD	Sungai Beduk	SEK-KER	Kerajinan & Souvenir	116	175	6804,1	50,7	36,8	Derived from fact_umkm_kelurahan_sector
+215	2021	BATAM-SBD	Sungai Beduk	SEK-KUL	Kuliner & Makanan	307	844	28735,2	38,4	36,2	Derived from fact_umkm_kelurahan_sector
+216	2021	BATAM-SBD	Sungai Beduk	SEK-LOG	Transportasi & Logistik Mikro	135	211	11962,2	49,3	35,7	Derived from fact_umkm_kelurahan_sector
+217	2021	BATAM-SBD	Sungai Beduk	SEK-OTM	Otomotif & Repair	94	165	8563,8	41,5	34,4	Derived from fact_umkm_kelurahan_sector
+218	2021	BATAM-SBD	Sungai Beduk	SEK-PAR	Pariwisata & Akomodasi Mikro	74	147	8773,3	65,7	43	Derived from fact_umkm_kelurahan_sector
+219	2021	BATAM-SBD	Sungai Beduk	SEK-PRK	Perikanan & Olahan Laut	135	250	11456,6	31,4	31,2	Derived from fact_umkm_kelurahan_sector
+220	2021	BATAM-SBD	Sungai Beduk	SEK-RIT	Retail & Perdagangan	289	647	29575,1	37,8	32,6	Derived from fact_umkm_kelurahan_sector
+221	2021	BATAM-SGL	Sagulung	SEK-DIG	Digital & Kreatif	158	201	21295,8	71,5	40,4	Derived from fact_umkm_kelurahan_sector
+222	2021	BATAM-SGL	Sagulung	SEK-FAS	Fashion & Aksesoris	401	811	30527,4	53,9	38,7	Derived from fact_umkm_kelurahan_sector
+223	2021	BATAM-SGL	Sagulung	SEK-JAS	Jasa Personal	457	836	31938,9	41,8	32,5	Derived from fact_umkm_kelurahan_sector
+224	2021	BATAM-SGL	Sagulung	SEK-KER	Kerajinan & Souvenir	258	411	15133,3	53,8	38,5	Derived from fact_umkm_kelurahan_sector
+225	2021	BATAM-SGL	Sagulung	SEK-KUL	Kuliner & Makanan	884	2225	82742,4	40,4	32,8	Derived from fact_umkm_kelurahan_sector
+226	2021	BATAM-SGL	Sagulung	SEK-LOG	Transportasi & Logistik Mikro	279	445	24721,7	52,6	35,1	Derived from fact_umkm_kelurahan_sector
+227	2021	BATAM-SGL	Sagulung	SEK-OTM	Otomotif & Repair	203	326	18493,9	40,1	33,4	Derived from fact_umkm_kelurahan_sector
+228	2021	BATAM-SGL	Sagulung	SEK-PAR	Pariwisata & Akomodasi Mikro	163	338	19325,4	61,3	37,3	Derived from fact_umkm_kelurahan_sector
+229	2021	BATAM-SGL	Sagulung	SEK-PRK	Perikanan & Olahan Laut	295	619	25034,9	26,1	30,1	Derived from fact_umkm_kelurahan_sector
+230	2021	BATAM-SGL	Sagulung	SEK-RIT	Retail & Perdagangan	786	1854	80436	37	34,2	Derived from fact_umkm_kelurahan_sector
+231	2021	BATAM-SKP	Sekupang	SEK-DIG	Digital & Kreatif	111	166	14961	71,7	39,9	Derived from fact_umkm_kelurahan_sector
+232	2021	BATAM-SKP	Sekupang	SEK-FAS	Fashion & Aksesoris	290	600	22077,1	56,8	37,8	Derived from fact_umkm_kelurahan_sector
+233	2021	BATAM-SKP	Sekupang	SEK-JAS	Jasa Personal	334	594	23342,6	45	33,8	Derived from fact_umkm_kelurahan_sector
+234	2021	BATAM-SKP	Sekupang	SEK-KER	Kerajinan & Souvenir	177	269	10382,1	53,7	37,4	Derived from fact_umkm_kelurahan_sector
+235	2021	BATAM-SKP	Sekupang	SEK-KUL	Kuliner & Makanan	437	1133	40903,2	42,7	33,8	Derived from fact_umkm_kelurahan_sector
+236	2021	BATAM-SKP	Sekupang	SEK-LOG	Transportasi & Logistik Mikro	306	513	27114	46,9	34,8	Derived from fact_umkm_kelurahan_sector
+237	2021	BATAM-SKP	Sekupang	SEK-OTM	Otomotif & Repair	138	227	12572,5	41,9	31,6	Derived from fact_umkm_kelurahan_sector
+238	2021	BATAM-SKP	Sekupang	SEK-PAR	Pariwisata & Akomodasi Mikro	120	265	14227,2	59,9	38,6	Derived from fact_umkm_kelurahan_sector
+239	2021	BATAM-SKP	Sekupang	SEK-PRK	Perikanan & Olahan Laut	221	397	18754,9	30,7	31,8	Derived from fact_umkm_kelurahan_sector
+240	2021	BATAM-SKP	Sekupang	SEK-RIT	Retail & Perdagangan	398	972	40729,6	37,7	33,1	Derived from fact_umkm_kelurahan_sector
+241	2022	BATAM-BAJ	Batu Aji	SEK-DIG	Digital & Kreatif	129	171	18055,8	78,8	48,7	Derived from fact_umkm_kelurahan_sector
+242	2022	BATAM-BAJ	Batu Aji	SEK-FAS	Fashion & Aksesoris	282	522	22293,8	62,6	43,5	Derived from fact_umkm_kelurahan_sector
+243	2022	BATAM-BAJ	Batu Aji	SEK-JAS	Jasa Personal	325	580	23587,2	51,5	43,4	Derived from fact_umkm_kelurahan_sector
+244	2022	BATAM-BAJ	Batu Aji	SEK-KER	Kerajinan & Souvenir	186	285	11329,6	54,1	42,1	Derived from fact_umkm_kelurahan_sector
+245	2022	BATAM-BAJ	Batu Aji	SEK-KUL	Kuliner & Makanan	570	1444	55404	47,6	40,3	Derived from fact_umkm_kelurahan_sector
+246	2022	BATAM-BAJ	Batu Aji	SEK-LOG	Transportasi & Logistik Mikro	200	333	18403,2	53	42,1	Derived from fact_umkm_kelurahan_sector
+247	2022	BATAM-BAJ	Batu Aji	SEK-OTM	Otomotif & Repair	150	258	14191,2	43,7	39,7	Derived from fact_umkm_kelurahan_sector
+248	2022	BATAM-BAJ	Batu Aji	SEK-PAR	Pariwisata & Akomodasi Mikro	161	326	19822,3	65,8	47,5	Derived from fact_umkm_kelurahan_sector
+249	2022	BATAM-BAJ	Batu Aji	SEK-PRK	Perikanan & Olahan Laut	220	412	19388,1	35,1	34,3	Derived from fact_umkm_kelurahan_sector
+250	2022	BATAM-BAJ	Batu Aji	SEK-RIT	Retail & Perdagangan	552	1324	58662,2	40,3	36,6	Derived from fact_umkm_kelurahan_sector
+251	2022	BATAM-BAM	Batu Ampar	SEK-DIG	Digital & Kreatif	53	82	7418,3	73,9	46,9	Derived from fact_umkm_kelurahan_sector
+252	2022	BATAM-BAM	Batu Ampar	SEK-FAS	Fashion & Aksesoris	134	263	10593,5	58,5	42,7	Derived from fact_umkm_kelurahan_sector
+253	2022	BATAM-BAM	Batu Ampar	SEK-JAS	Jasa Personal	163	305	11830	51,9	43,2	Derived from fact_umkm_kelurahan_sector
+254	2022	BATAM-BAM	Batu Ampar	SEK-KER	Kerajinan & Souvenir	81	136	4933,9	55,2	42,7	Derived from fact_umkm_kelurahan_sector
+255	2022	BATAM-BAM	Batu Ampar	SEK-KUL	Kuliner & Makanan	202	540	19634,4	42,9	41,3	Derived from fact_umkm_kelurahan_sector
+256	2022	BATAM-BAM	Batu Ampar	SEK-LOG	Transportasi & Logistik Mikro	136	233	12514,2	48,2	41,7	Derived from fact_umkm_kelurahan_sector
+257	2022	BATAM-BAM	Batu Ampar	SEK-OTM	Otomotif & Repair	63	97	5960,2	40,9	37,7	Derived from fact_umkm_kelurahan_sector
+258	2022	BATAM-BAM	Batu Ampar	SEK-PAR	Pariwisata & Akomodasi Mikro	74	156	9110,8	65,2	43,9	Derived from fact_umkm_kelurahan_sector
+259	2022	BATAM-BAM	Batu Ampar	SEK-PRK	Perikanan & Olahan Laut	98	193	8636,5	34,9	38,1	Derived from fact_umkm_kelurahan_sector
+260	2022	BATAM-BAM	Batu Ampar	SEK-RIT	Retail & Perdagangan	179	397	19022,8	37,6	35,3	Derived from fact_umkm_kelurahan_sector
+261	2022	BATAM-BKG	Bengkong	SEK-DIG	Digital & Kreatif	114	156	15956,3	78,1	47,6	Derived from fact_umkm_kelurahan_sector
+262	2022	BATAM-BKG	Bengkong	SEK-FAS	Fashion & Aksesoris	269	499	21266,1	61,7	45,7	Derived from fact_umkm_kelurahan_sector
+263	2022	BATAM-BKG	Bengkong	SEK-JAS	Jasa Personal	350	628	25401,6	51,7	41,6	Derived from fact_umkm_kelurahan_sector
+264	2022	BATAM-BKG	Bengkong	SEK-KER	Kerajinan & Souvenir	176	273	10720,5	57,6	42,6	Derived from fact_umkm_kelurahan_sector
+265	2022	BATAM-BKG	Bengkong	SEK-KUL	Kuliner & Makanan	618	1598	60069,6	47,3	41,4	Derived from fact_umkm_kelurahan_sector
+266	2022	BATAM-BKG	Bengkong	SEK-LOG	Transportasi & Logistik Mikro	183	323	16839	55,9	41,4	Derived from fact_umkm_kelurahan_sector
+267	2022	BATAM-BKG	Bengkong	SEK-OTM	Otomotif & Repair	145	242	13718,2	40,2	40,5	Derived from fact_umkm_kelurahan_sector
+268	2022	BATAM-BKG	Bengkong	SEK-PAR	Pariwisata & Akomodasi Mikro	152	322	18714,3	68	44,7	Derived from fact_umkm_kelurahan_sector
+269	2022	BATAM-BKG	Bengkong	SEK-PRK	Perikanan & Olahan Laut	208	394	18330,7	30,3	40,2	Derived from fact_umkm_kelurahan_sector
+270	2022	BATAM-BKG	Bengkong	SEK-RIT	Retail & Perdagangan	538	1112	57174,4	42,4	37,5	Derived from fact_umkm_kelurahan_sector
+271	2022	BATAM-BLG	Bulang	SEK-DIG	Digital & Kreatif	12	17	1679,4	72,3	44,5	Derived from fact_umkm_kelurahan_sector
+272	2022	BATAM-BLG	Bulang	SEK-FAS	Fashion & Aksesoris	12	23	948,6	56	44	Derived from fact_umkm_kelurahan_sector
+273	2022	BATAM-BLG	Bulang	SEK-JAS	Jasa Personal	14	25	1016,2	47	40,8	Derived from fact_umkm_kelurahan_sector
+274	2022	BATAM-BLG	Bulang	SEK-KER	Kerajinan & Souvenir	12	18	730,8	55,7	41	Derived from fact_umkm_kelurahan_sector
+275	2022	BATAM-BLG	Bulang	SEK-KUL	Kuliner & Makanan	21	53	2041,2	44,2	39,8	Derived from fact_umkm_kelurahan_sector
+276	2022	BATAM-BLG	Bulang	SEK-LOG	Transportasi & Logistik Mikro	12	22	1104	56,7	41,4	Derived from fact_umkm_kelurahan_sector
+277	2022	BATAM-BLG	Bulang	SEK-OTM	Otomotif & Repair	12	20	1135,2	42,2	41,6	Derived from fact_umkm_kelurahan_sector
+278	2022	BATAM-BLG	Bulang	SEK-PAR	Pariwisata & Akomodasi Mikro	12	25	1477,2	66,5	45,6	Derived from fact_umkm_kelurahan_sector
+279	2022	BATAM-BLG	Bulang	SEK-PRK	Perikanan & Olahan Laut	19	34	1674,5	32,7	35,9	Derived from fact_umkm_kelurahan_sector
+280	2022	BATAM-BLG	Bulang	SEK-RIT	Retail & Perdagangan	16	40	1700,2	39	37,6	Derived from fact_umkm_kelurahan_sector
+281	2022	BATAM-BLP	Belakang Padang	SEK-DIG	Digital & Kreatif	14	17	1959,3	76,1	48,3	Derived from fact_umkm_kelurahan_sector
+282	2022	BATAM-BLP	Belakang Padang	SEK-FAS	Fashion & Aksesoris	26	52	2055,4	58,8	41	Derived from fact_umkm_kelurahan_sector
+283	2022	BATAM-BLP	Belakang Padang	SEK-JAS	Jasa Personal	30	52	2177,3	49,2	39,7	Derived from fact_umkm_kelurahan_sector
+284	2022	BATAM-BLP	Belakang Padang	SEK-KER	Kerajinan & Souvenir	16	25	974,4	57,6	42,8	Derived from fact_umkm_kelurahan_sector
+285	2022	BATAM-BLP	Belakang Padang	SEK-KUL	Kuliner & Makanan	42	115	4082,4	47,5	43,3	Derived from fact_umkm_kelurahan_sector
+286	2022	BATAM-BLP	Belakang Padang	SEK-LOG	Transportasi & Logistik Mikro	17	26	1564	55,7	43,1	Derived from fact_umkm_kelurahan_sector
+287	2022	BATAM-BLP	Belakang Padang	SEK-OTM	Otomotif & Repair	14	26	1324,4	45,1	39,1	Derived from fact_umkm_kelurahan_sector
+288	2022	BATAM-BLP	Belakang Padang	SEK-PAR	Pariwisata & Akomodasi Mikro	14	32	1723,4	64,1	43,1	Derived from fact_umkm_kelurahan_sector
+289	2022	BATAM-BLP	Belakang Padang	SEK-PRK	Perikanan & Olahan Laut	38	72	3348,8	33,9	36,7	Derived from fact_umkm_kelurahan_sector
+290	2022	BATAM-BLP	Belakang Padang	SEK-RIT	Retail & Perdagangan	36	82	3826	42,4	38,4	Derived from fact_umkm_kelurahan_sector
+291	2022	BATAM-BTK	Batam Kota	SEK-DIG	Digital & Kreatif	260	355	36391,6	76,1	48,5	Derived from fact_umkm_kelurahan_sector
+292	2022	BATAM-BTK	Batam Kota	SEK-FAS	Fashion & Aksesoris	362	732	28618,2	60,8	42,6	Derived from fact_umkm_kelurahan_sector
+293	2022	BATAM-BTK	Batam Kota	SEK-JAS	Jasa Personal	423	717	30699,6	48,2	41,3	Derived from fact_umkm_kelurahan_sector
+294	2022	BATAM-BTK	Batam Kota	SEK-KER	Kerajinan & Souvenir	225	338	13705,3	54	40,2	Derived from fact_umkm_kelurahan_sector
+295	2022	BATAM-BTK	Batam Kota	SEK-KUL	Kuliner & Makanan	544	1441	52876,8	47,1	42,3	Derived from fact_umkm_kelurahan_sector
+296	2022	BATAM-BTK	Batam Kota	SEK-LOG	Transportasi & Logistik Mikro	235	393	21623,8	51,1	41,3	Derived from fact_umkm_kelurahan_sector
+297	2022	BATAM-BTK	Batam Kota	SEK-OTM	Otomotif & Repair	178	287	16840,1	45,3	41,2	Derived from fact_umkm_kelurahan_sector
+298	2022	BATAM-BTK	Batam Kota	SEK-PAR	Pariwisata & Akomodasi Mikro	203	400	24993,4	63,3	43,5	Derived from fact_umkm_kelurahan_sector
+299	2022	BATAM-BTK	Batam Kota	SEK-PRK	Perikanan & Olahan Laut	262	497	23089,5	32,5	35,8	Derived from fact_umkm_kelurahan_sector
+300	2022	BATAM-BTK	Batam Kota	SEK-RIT	Retail & Perdagangan	496	1175	52710,9	42	41,5	Derived from fact_umkm_kelurahan_sector
+301	2022	BATAM-GLG	Galang	SEK-DIG	Digital & Kreatif	16	23	2239,2	74,9	47,8	Derived from fact_umkm_kelurahan_sector
+302	2022	BATAM-GLG	Galang	SEK-FAS	Fashion & Aksesoris	21	42	1660,3	58,4	42,1	Derived from fact_umkm_kelurahan_sector
+303	2022	BATAM-GLG	Galang	SEK-JAS	Jasa Personal	23	42	1669,1	49,6	43	Derived from fact_umkm_kelurahan_sector
+304	2022	BATAM-GLG	Galang	SEK-KER	Kerajinan & Souvenir	16	24	974,4	56,6	44,9	Derived from fact_umkm_kelurahan_sector
+305	2022	BATAM-GLG	Galang	SEK-KUL	Kuliner & Makanan	32	86	3110,4	45,9	41	Derived from fact_umkm_kelurahan_sector
+306	2022	BATAM-GLG	Galang	SEK-LOG	Transportasi & Logistik Mikro	16	27	1472	52	41,2	Derived from fact_umkm_kelurahan_sector
+307	2022	BATAM-GLG	Galang	SEK-OTM	Otomotif & Repair	16	26	1513,6	44,2	38,8	Derived from fact_umkm_kelurahan_sector
+308	2022	BATAM-GLG	Galang	SEK-PAR	Pariwisata & Akomodasi Mikro	19	40	2339,2	64,9	44,6	Derived from fact_umkm_kelurahan_sector
+309	2022	BATAM-GLG	Galang	SEK-PRK	Perikanan & Olahan Laut	29	53	2555,7	31,4	35,4	Derived from fact_umkm_kelurahan_sector
+310	2022	BATAM-GLG	Galang	SEK-RIT	Retail & Perdagangan	27	63	2869,3	42,5	39,4	Derived from fact_umkm_kelurahan_sector
+311	2022	BATAM-LBJ	Lubuk Baja	SEK-DIG	Digital & Kreatif	95	142	13296,9	74,7	44,3	Derived from fact_umkm_kelurahan_sector
+312	2022	BATAM-LBJ	Lubuk Baja	SEK-FAS	Fashion & Aksesoris	211	436	16680,8	59,1	42,3	Derived from fact_umkm_kelurahan_sector
+313	2022	BATAM-LBJ	Lubuk Baja	SEK-JAS	Jasa Personal	251	438	18216,5	46,4	42,1	Derived from fact_umkm_kelurahan_sector
+314	2022	BATAM-LBJ	Lubuk Baja	SEK-KER	Kerajinan & Souvenir	131	188	7979,4	60,6	46,9	Derived from fact_umkm_kelurahan_sector
+315	2022	BATAM-LBJ	Lubuk Baja	SEK-KUL	Kuliner & Makanan	329	883	31978,8	43,8	43,2	Derived from fact_umkm_kelurahan_sector
+316	2022	BATAM-LBJ	Lubuk Baja	SEK-LOG	Transportasi & Logistik Mikro	146	219	13434,3	53,9	42,1	Derived from fact_umkm_kelurahan_sector
+317	2022	BATAM-LBJ	Lubuk Baja	SEK-OTM	Otomotif & Repair	107	172	10123,2	46	40,5	Derived from fact_umkm_kelurahan_sector
+318	2022	BATAM-LBJ	Lubuk Baja	SEK-PAR	Pariwisata & Akomodasi Mikro	202	416	24870,3	67,7	47,7	Derived from fact_umkm_kelurahan_sector
+319	2022	BATAM-LBJ	Lubuk Baja	SEK-PRK	Perikanan & Olahan Laut	161	287	14188,5	33,1	39,3	Derived from fact_umkm_kelurahan_sector
+320	2022	BATAM-LBJ	Lubuk Baja	SEK-RIT	Retail & Perdagangan	295	711	31350,3	43,9	40,4	Derived from fact_umkm_kelurahan_sector
+321	2022	BATAM-NGS	Nongsa	SEK-DIG	Digital & Kreatif	157	220	21975	77,2	46,2	Derived from fact_umkm_kelurahan_sector
+322	2022	BATAM-NGS	Nongsa	SEK-FAS	Fashion & Aksesoris	205	395	16206,5	62,4	42,5	Derived from fact_umkm_kelurahan_sector
+323	2022	BATAM-NGS	Nongsa	SEK-JAS	Jasa Personal	243	389	17636	52,9	40,9	Derived from fact_umkm_kelurahan_sector
+324	2022	BATAM-NGS	Nongsa	SEK-KER	Kerajinan & Souvenir	128	192	7796,7	56,7	43,1	Derived from fact_umkm_kelurahan_sector
+325	2022	BATAM-NGS	Nongsa	SEK-KUL	Kuliner & Makanan	327	815	31784,4	44,2	41,3	Derived from fact_umkm_kelurahan_sector
+326	2022	BATAM-NGS	Nongsa	SEK-LOG	Transportasi & Logistik Mikro	136	218	12514,1	53,6	44,7	Derived from fact_umkm_kelurahan_sector
+327	2022	BATAM-NGS	Nongsa	SEK-OTM	Otomotif & Repair	102	156	9650	40,8	40,7	Derived from fact_umkm_kelurahan_sector
+328	2022	BATAM-NGS	Nongsa	SEK-PAR	Pariwisata & Akomodasi Mikro	178	388	21915,3	64,9	43,5	Derived from fact_umkm_kelurahan_sector
+329	2022	BATAM-NGS	Nongsa	SEK-PRK	Perikanan & Olahan Laut	157	279	13836,1	30,6	35,1	Derived from fact_umkm_kelurahan_sector
+330	2022	BATAM-NGS	Nongsa	SEK-RIT	Retail & Perdagangan	286	648	30393,7	42,3	38,6	Derived from fact_umkm_kelurahan_sector
+331	2022	BATAM-SBD	Sungai Beduk	SEK-DIG	Digital & Kreatif	87	140	12177,3	78,9	45,9	Derived from fact_umkm_kelurahan_sector
+332	2022	BATAM-SBD	Sungai Beduk	SEK-FAS	Fashion & Aksesoris	198	335	15653,1	61,9	42,6	Derived from fact_umkm_kelurahan_sector
+333	2022	BATAM-SBD	Sungai Beduk	SEK-JAS	Jasa Personal	259	473	18797,2	46,7	43	Derived from fact_umkm_kelurahan_sector
+334	2022	BATAM-SBD	Sungai Beduk	SEK-KER	Kerajinan & Souvenir	132	218	8040,5	56,6	44,9	Derived from fact_umkm_kelurahan_sector
+335	2022	BATAM-SBD	Sungai Beduk	SEK-KUL	Kuliner & Makanan	321	858	31201,2	44,3	40,5	Derived from fact_umkm_kelurahan_sector
+336	2022	BATAM-SBD	Sungai Beduk	SEK-LOG	Transportasi & Logistik Mikro	145	231	13342,3	52,3	42,3	Derived from fact_umkm_kelurahan_sector
+337	2022	BATAM-SBD	Sungai Beduk	SEK-OTM	Otomotif & Repair	101	169	9555,4	44,3	40,7	Derived from fact_umkm_kelurahan_sector
+338	2022	BATAM-SBD	Sungai Beduk	SEK-PAR	Pariwisata & Akomodasi Mikro	120	265	14774,4	63,4	42,2	Derived from fact_umkm_kelurahan_sector
+339	2022	BATAM-SBD	Sungai Beduk	SEK-PRK	Perikanan & Olahan Laut	161	316	14188,7	33,4	34,5	Derived from fact_umkm_kelurahan_sector
+340	2022	BATAM-SBD	Sungai Beduk	SEK-RIT	Retail & Perdagangan	307	659	32625,6	39,6	43,5	Derived from fact_umkm_kelurahan_sector
+341	2022	BATAM-SGL	Sagulung	SEK-DIG	Digital & Kreatif	202	317	28273,5	75,8	49,2	Derived from fact_umkm_kelurahan_sector
+342	2022	BATAM-SGL	Sagulung	SEK-FAS	Fashion & Aksesoris	432	869	34152,3	62,5	43,2	Derived from fact_umkm_kelurahan_sector
+343	2022	BATAM-SGL	Sagulung	SEK-JAS	Jasa Personal	532	990	38610,5	48,6	42	Derived from fact_umkm_kelurahan_sector
+344	2022	BATAM-SGL	Sagulung	SEK-KER	Kerajinan & Souvenir	282	454	17177,3	57,4	42,3	Derived from fact_umkm_kelurahan_sector
+345	2022	BATAM-SGL	Sagulung	SEK-KUL	Kuliner & Makanan	905	2357	87966	46,9	42,4	Derived from fact_umkm_kelurahan_sector
+346	2022	BATAM-SGL	Sagulung	SEK-LOG	Transportasi & Logistik Mikro	304	498	27973	52,7	40,1	Derived from fact_umkm_kelurahan_sector
+347	2022	BATAM-SGL	Sagulung	SEK-OTM	Otomotif & Repair	234	381	22138,2	46,3	41	Derived from fact_umkm_kelurahan_sector
+348	2022	BATAM-SGL	Sagulung	SEK-PAR	Pariwisata & Akomodasi Mikro	259	489	31888,1	66	46	Derived from fact_umkm_kelurahan_sector
+349	2022	BATAM-SGL	Sagulung	SEK-PRK	Perikanan & Olahan Laut	318	617	28024,8	33,7	38,9	Derived from fact_umkm_kelurahan_sector
+350	2022	BATAM-SGL	Sagulung	SEK-RIT	Retail & Perdagangan	819	1992	87036,7	41,9	38,8	Derived from fact_umkm_kelurahan_sector
+351	2022	BATAM-SKP	Sekupang	SEK-DIG	Digital & Kreatif	126	165	17636	75,5	47,5	Derived from fact_umkm_kelurahan_sector
+352	2022	BATAM-SKP	Sekupang	SEK-FAS	Fashion & Aksesoris	303	612	23953,9	62	44,3	Derived from fact_umkm_kelurahan_sector
+353	2022	BATAM-SKP	Sekupang	SEK-JAS	Jasa Personal	373	668	27070,8	51,9	39,6	Derived from fact_umkm_kelurahan_sector
+354	2022	BATAM-SKP	Sekupang	SEK-KER	Kerajinan & Souvenir	187	300	11390,5	58,7	43,4	Derived from fact_umkm_kelurahan_sector
+355	2022	BATAM-SKP	Sekupang	SEK-KUL	Kuliner & Makanan	472	1291	45878,4	44,2	39,9	Derived from fact_umkm_kelurahan_sector
+356	2022	BATAM-SKP	Sekupang	SEK-LOG	Transportasi & Logistik Mikro	331	539	30457,3	52,5	42,9	Derived from fact_umkm_kelurahan_sector
+357	2022	BATAM-SKP	Sekupang	SEK-OTM	Otomotif & Repair	153	251	14475,1	44,5	39,4	Derived from fact_umkm_kelurahan_sector
+358	2022	BATAM-SKP	Sekupang	SEK-PAR	Pariwisata & Akomodasi Mikro	182	361	22407,7	66,2	47,5	Derived from fact_umkm_kelurahan_sector
+359	2022	BATAM-SKP	Sekupang	SEK-PRK	Perikanan & Olahan Laut	229	418	20181,3	30,2	36,5	Derived from fact_umkm_kelurahan_sector
+360	2022	BATAM-SKP	Sekupang	SEK-RIT	Retail & Perdagangan	460	1115	48885,2	43,2	38,2	Derived from fact_umkm_kelurahan_sector
+361	2023	BATAM-BAJ	Batu Aji	SEK-DIG	Digital & Kreatif	147	209	21337,4	78,1	51,8	Derived from fact_umkm_kelurahan_sector
+362	2023	BATAM-BAJ	Batu Aji	SEK-FAS	Fashion & Aksesoris	311	576	25497	64,7	49,1	Derived from fact_umkm_kelurahan_sector
+363	2023	BATAM-BAJ	Batu Aji	SEK-JAS	Jasa Personal	350	555	26342,5	54,6	47,8	Derived from fact_umkm_kelurahan_sector
+364	2023	BATAM-BAJ	Batu Aji	SEK-KER	Kerajinan & Souvenir	182	295	11496,5	61,3	47,9	Derived from fact_umkm_kelurahan_sector
+365	2023	BATAM-BAJ	Batu Aji	SEK-KUL	Kuliner & Makanan	663	1672	66830,4	51,7	47,9	Derived from fact_umkm_kelurahan_sector
+366	2023	BATAM-BAJ	Batu Aji	SEK-LOG	Transportasi & Logistik Mikro	201	330	19180,1	59,5	45,1	Derived from fact_umkm_kelurahan_sector
+367	2023	BATAM-BAJ	Batu Aji	SEK-OTM	Otomotif & Repair	155	230	15207,3	47,1	44,4	Derived from fact_umkm_kelurahan_sector
+368	2023	BATAM-BAJ	Batu Aji	SEK-PAR	Pariwisata & Akomodasi Mikro	173	383	22088,6	68,8	50,8	Derived from fact_umkm_kelurahan_sector
+369	2023	BATAM-BAJ	Batu Aji	SEK-PRK	Perikanan & Olahan Laut	231	408	21111,6	38,7	42,5	Derived from fact_umkm_kelurahan_sector
+370	2023	BATAM-BAJ	Batu Aji	SEK-RIT	Retail & Perdagangan	635	1480	69982,1	46,1	47	Derived from fact_umkm_kelurahan_sector
+371	2023	BATAM-BAM	Batu Ampar	SEK-DIG	Digital & Kreatif	67	101	9725,2	76,9	52,8	Derived from fact_umkm_kelurahan_sector
+372	2023	BATAM-BAM	Batu Ampar	SEK-FAS	Fashion & Aksesoris	136	275	11149,8	63,7	49,7	Derived from fact_umkm_kelurahan_sector
+373	2023	BATAM-BAM	Batu Ampar	SEK-JAS	Jasa Personal	173	304	13020,8	56,1	44,9	Derived from fact_umkm_kelurahan_sector
+374	2023	BATAM-BAM	Batu Ampar	SEK-KER	Kerajinan & Souvenir	86	130	5432,4	62,8	51,4	Derived from fact_umkm_kelurahan_sector
+375	2023	BATAM-BAM	Batu Ampar	SEK-KUL	Kuliner & Makanan	211	542	21268,8	49,9	43,8	Derived from fact_umkm_kelurahan_sector
+376	2023	BATAM-BAM	Batu Ampar	SEK-LOG	Transportasi & Logistik Mikro	138	245	13168,6	55,3	48,5	Derived from fact_umkm_kelurahan_sector
+377	2023	BATAM-BAM	Batu Ampar	SEK-OTM	Otomotif & Repair	66	106	6475,4	48,9	47	Derived from fact_umkm_kelurahan_sector
+378	2023	BATAM-BAM	Batu Ampar	SEK-PAR	Pariwisata & Akomodasi Mikro	83	181	10597,4	67,1	50,3	Derived from fact_umkm_kelurahan_sector
+379	2023	BATAM-BAM	Batu Ampar	SEK-PRK	Perikanan & Olahan Laut	101	209	9230,6	35,8	44,9	Derived from fact_umkm_kelurahan_sector
+380	2023	BATAM-BAM	Batu Ampar	SEK-RIT	Retail & Perdagangan	198	463	21821,2	45,4	47	Derived from fact_umkm_kelurahan_sector
+381	2023	BATAM-BKG	Bengkong	SEK-DIG	Digital & Kreatif	156	219	22643,6	83	52,6	Derived from fact_umkm_kelurahan_sector
+382	2023	BATAM-BKG	Bengkong	SEK-FAS	Fashion & Aksesoris	290	581	23775,3	68,8	51,2	Derived from fact_umkm_kelurahan_sector
+383	2023	BATAM-BKG	Bengkong	SEK-JAS	Jasa Personal	344	643	25890,9	56,2	49,2	Derived from fact_umkm_kelurahan_sector
+384	2023	BATAM-BKG	Bengkong	SEK-KER	Kerajinan & Souvenir	200	320	12633,6	61,1	46,9	Derived from fact_umkm_kelurahan_sector
+385	2023	BATAM-BKG	Bengkong	SEK-KUL	Kuliner & Makanan	638	1739	64310,4	50,8	48,6	Derived from fact_umkm_kelurahan_sector
+386	2023	BATAM-BKG	Bengkong	SEK-LOG	Transportasi & Logistik Mikro	202	357	19275,7	57,1	47,9	Derived from fact_umkm_kelurahan_sector
+387	2023	BATAM-BKG	Bengkong	SEK-OTM	Otomotif & Repair	149	261	14618,7	49,2	45,3	Derived from fact_umkm_kelurahan_sector
+388	2023	BATAM-BKG	Bengkong	SEK-PAR	Pariwisata & Akomodasi Mikro	173	360	22088,6	66	50,3	Derived from fact_umkm_kelurahan_sector
+389	2023	BATAM-BKG	Bengkong	SEK-PRK	Perikanan & Olahan Laut	231	424	21111,4	38,4	43,5	Derived from fact_umkm_kelurahan_sector
+390	2023	BATAM-BKG	Bengkong	SEK-RIT	Retail & Perdagangan	565	1310	62267,6	49,5	48,2	Derived from fact_umkm_kelurahan_sector
+391	2023	BATAM-BLG	Bulang	SEK-DIG	Digital & Kreatif	12	17	1741,8	78	53,6	Derived from fact_umkm_kelurahan_sector
+392	2023	BATAM-BLG	Bulang	SEK-FAS	Fashion & Aksesoris	12	24	984	62,2	49,3	Derived from fact_umkm_kelurahan_sector
+393	2023	BATAM-BLG	Bulang	SEK-JAS	Jasa Personal	18	31	1354,8	54,2	46,9	Derived from fact_umkm_kelurahan_sector
+394	2023	BATAM-BLG	Bulang	SEK-KER	Kerajinan & Souvenir	12	19	757,8	63	48,5	Derived from fact_umkm_kelurahan_sector
+395	2023	BATAM-BLG	Bulang	SEK-KUL	Kuliner & Makanan	21	57	2116,8	49,4	47,7	Derived from fact_umkm_kelurahan_sector
+396	2023	BATAM-BLG	Bulang	SEK-LOG	Transportasi & Logistik Mikro	12	20	1144,8	60	49,2	Derived from fact_umkm_kelurahan_sector
+397	2023	BATAM-BLG	Bulang	SEK-OTM	Otomotif & Repair	12	19	1177,2	49,7	44,6	Derived from fact_umkm_kelurahan_sector
+398	2023	BATAM-BLG	Bulang	SEK-PAR	Pariwisata & Akomodasi Mikro	12	28	1532,4	70,3	51,3	Derived from fact_umkm_kelurahan_sector
+399	2023	BATAM-BLG	Bulang	SEK-PRK	Perikanan & Olahan Laut	20	35	1828	36,5	41,2	Derived from fact_umkm_kelurahan_sector
+400	2023	BATAM-BLG	Bulang	SEK-RIT	Retail & Perdagangan	19	47	2093,8	45,5	48,5	Derived from fact_umkm_kelurahan_sector
+401	2023	BATAM-BLP	Belakang Padang	SEK-DIG	Digital & Kreatif	14	20	2032,1	78,4	54,3	Derived from fact_umkm_kelurahan_sector
+402	2023	BATAM-BLP	Belakang Padang	SEK-FAS	Fashion & Aksesoris	29	57	2377,3	62,4	49,5	Derived from fact_umkm_kelurahan_sector
+403	2023	BATAM-BLP	Belakang Padang	SEK-JAS	Jasa Personal	34	55	2559	52,2	48,9	Derived from fact_umkm_kelurahan_sector
+404	2023	BATAM-BLP	Belakang Padang	SEK-KER	Kerajinan & Souvenir	17	26	1073,7	60,7	46,5	Derived from fact_umkm_kelurahan_sector
+405	2023	BATAM-BLP	Belakang Padang	SEK-KUL	Kuliner & Makanan	46	126	4636,8	49,2	46,8	Derived from fact_umkm_kelurahan_sector
+406	2023	BATAM-BLP	Belakang Padang	SEK-LOG	Transportasi & Logistik Mikro	18	27	1717,6	57,6	47,8	Derived from fact_umkm_kelurahan_sector
+407	2023	BATAM-BLP	Belakang Padang	SEK-OTM	Otomotif & Repair	14	22	1373,4	50,9	47,1	Derived from fact_umkm_kelurahan_sector
+408	2023	BATAM-BLP	Belakang Padang	SEK-PAR	Pariwisata & Akomodasi Mikro	15	32	1915,4	73	52,9	Derived from fact_umkm_kelurahan_sector
+409	2023	BATAM-BLP	Belakang Padang	SEK-PRK	Perikanan & Olahan Laut	39	70	3564,6	36,6	43,9	Derived from fact_umkm_kelurahan_sector
+410	2023	BATAM-BLP	Belakang Padang	SEK-RIT	Retail & Perdagangan	41	93	4518,2	47,5	45,7	Derived from fact_umkm_kelurahan_sector
+411	2023	BATAM-BTK	Batam Kota	SEK-DIG	Digital & Kreatif	306	450	44416,6	75,5	51,7	Derived from fact_umkm_kelurahan_sector
+412	2023	BATAM-BTK	Batam Kota	SEK-FAS	Fashion & Aksesoris	383	809	31399,9	66	51,8	Derived from fact_umkm_kelurahan_sector
+413	2023	BATAM-BTK	Batam Kota	SEK-JAS	Jasa Personal	463	855	34847,2	51,8	48,4	Derived from fact_umkm_kelurahan_sector
+414	2023	BATAM-BTK	Batam Kota	SEK-KER	Kerajinan & Souvenir	241	368	15223,5	62,1	51	Derived from fact_umkm_kelurahan_sector
+415	2023	BATAM-BTK	Batam Kota	SEK-KUL	Kuliner & Makanan	624	1721	62899,2	49,3	45,3	Derived from fact_umkm_kelurahan_sector
+416	2023	BATAM-BTK	Batam Kota	SEK-LOG	Transportasi & Logistik Mikro	254	416	24237,8	58,9	48,1	Derived from fact_umkm_kelurahan_sector
+417	2023	BATAM-BTK	Batam Kota	SEK-OTM	Otomotif & Repair	185	301	18150,7	51,3	46,3	Derived from fact_umkm_kelurahan_sector
+418	2023	BATAM-BTK	Batam Kota	SEK-PAR	Pariwisata & Akomodasi Mikro	220	466	28089,6	68,9	48,7	Derived from fact_umkm_kelurahan_sector
+419	2023	BATAM-BTK	Batam Kota	SEK-PRK	Perikanan & Olahan Laut	273	544	24950,1	38,5	46,6	Derived from fact_umkm_kelurahan_sector
+420	2023	BATAM-BTK	Batam Kota	SEK-RIT	Retail & Perdagangan	549	1275	60504,1	46,8	45,9	Derived from fact_umkm_kelurahan_sector
+421	2023	BATAM-GLG	Galang	SEK-DIG	Digital & Kreatif	16	24	2322,4	81,5	53,4	Derived from fact_umkm_kelurahan_sector
+422	2023	BATAM-GLG	Galang	SEK-FAS	Fashion & Aksesoris	23	50	1886	64,1	49,9	Derived from fact_umkm_kelurahan_sector
+423	2023	BATAM-GLG	Galang	SEK-JAS	Jasa Personal	26	45	1957	50,6	46,1	Derived from fact_umkm_kelurahan_sector
+424	2023	BATAM-GLG	Galang	SEK-KER	Kerajinan & Souvenir	16	24	1010,4	60,9	49,2	Derived from fact_umkm_kelurahan_sector
+425	2023	BATAM-GLG	Galang	SEK-KUL	Kuliner & Makanan	35	92	3528	47,9	43	Derived from fact_umkm_kelurahan_sector
+426	2023	BATAM-GLG	Galang	SEK-LOG	Transportasi & Logistik Mikro	16	28	1526,4	58,1	49,4	Derived from fact_umkm_kelurahan_sector
+427	2023	BATAM-GLG	Galang	SEK-OTM	Otomotif & Repair	16	29	1569,6	46,9	44,5	Derived from fact_umkm_kelurahan_sector
+428	2023	BATAM-GLG	Galang	SEK-PAR	Pariwisata & Akomodasi Mikro	20	43	2553,6	69	51,5	Derived from fact_umkm_kelurahan_sector
+429	2023	BATAM-GLG	Galang	SEK-PRK	Perikanan & Olahan Laut	31	59	2833,4	36	41,7	Derived from fact_umkm_kelurahan_sector
+430	2023	BATAM-GLG	Galang	SEK-RIT	Retail & Perdagangan	31	71	3416,2	46,1	46,2	Derived from fact_umkm_kelurahan_sector
+431	2023	BATAM-LBJ	Lubuk Baja	SEK-DIG	Digital & Kreatif	108	152	15676,4	78,3	52,5	Derived from fact_umkm_kelurahan_sector
+432	2023	BATAM-LBJ	Lubuk Baja	SEK-FAS	Fashion & Aksesoris	239	495	19594,2	64,5	47,9	Derived from fact_umkm_kelurahan_sector
+433	2023	BATAM-LBJ	Lubuk Baja	SEK-JAS	Jasa Personal	277	483	20848,1	50,3	47,4	Derived from fact_umkm_kelurahan_sector
+434	2023	BATAM-LBJ	Lubuk Baja	SEK-KER	Kerajinan & Souvenir	145	222	9159,4	58,4	44,4	Derived from fact_umkm_kelurahan_sector
+435	2023	BATAM-LBJ	Lubuk Baja	SEK-KUL	Kuliner & Makanan	355	955	35784	50,7	48,9	Derived from fact_umkm_kelurahan_sector
+436	2023	BATAM-LBJ	Lubuk Baja	SEK-LOG	Transportasi & Logistik Mikro	166	271	15840,4	59,9	47,9	Derived from fact_umkm_kelurahan_sector
+437	2023	BATAM-LBJ	Lubuk Baja	SEK-OTM	Otomotif & Repair	115	183	11282,9	47,4	44,7	Derived from fact_umkm_kelurahan_sector
+438	2023	BATAM-LBJ	Lubuk Baja	SEK-PAR	Pariwisata & Akomodasi Mikro	211	412	26940,4	69,5	49,4	Derived from fact_umkm_kelurahan_sector
+439	2023	BATAM-LBJ	Lubuk Baja	SEK-PRK	Perikanan & Olahan Laut	163	301	14896,8	34,5	41,9	Derived from fact_umkm_kelurahan_sector
+440	2023	BATAM-LBJ	Lubuk Baja	SEK-RIT	Retail & Perdagangan	311	681	34274,7	44,8	45	Derived from fact_umkm_kelurahan_sector
+441	2023	BATAM-NGS	Nongsa	SEK-DIG	Digital & Kreatif	180	251	26127,3	77	50,5	Derived from fact_umkm_kelurahan_sector
+442	2023	BATAM-NGS	Nongsa	SEK-FAS	Fashion & Aksesoris	214	407	17544,6	64,8	49,7	Derived from fact_umkm_kelurahan_sector
+443	2023	BATAM-NGS	Nongsa	SEK-JAS	Jasa Personal	249	466	18740,7	51,6	45,8	Derived from fact_umkm_kelurahan_sector
+444	2023	BATAM-NGS	Nongsa	SEK-KER	Kerajinan & Souvenir	138	218	8717,1	61	47,6	Derived from fact_umkm_kelurahan_sector
+445	2023	BATAM-NGS	Nongsa	SEK-KUL	Kuliner & Makanan	365	966	36792	52,6	45,8	Derived from fact_umkm_kelurahan_sector
+446	2023	BATAM-NGS	Nongsa	SEK-LOG	Transportasi & Logistik Mikro	146	233	13931,9	59,8	48	Derived from fact_umkm_kelurahan_sector
+447	2023	BATAM-NGS	Nongsa	SEK-OTM	Otomotif & Repair	110	185	10792,3	51,4	47,9	Derived from fact_umkm_kelurahan_sector
+448	2023	BATAM-NGS	Nongsa	SEK-PAR	Pariwisata & Akomodasi Mikro	211	420	26940,5	68,7	52,1	Derived from fact_umkm_kelurahan_sector
+449	2023	BATAM-NGS	Nongsa	SEK-PRK	Perikanan & Olahan Laut	168	320	15353,8	34,1	43,4	Derived from fact_umkm_kelurahan_sector
+450	2023	BATAM-NGS	Nongsa	SEK-RIT	Retail & Perdagangan	297	667	32731,8	45,8	47	Derived from fact_umkm_kelurahan_sector
+451	2023	BATAM-SBD	Sungai Beduk	SEK-DIG	Digital & Kreatif	99	130	14370	81,9	56	Derived from fact_umkm_kelurahan_sector
+452	2023	BATAM-SBD	Sungai Beduk	SEK-FAS	Fashion & Aksesoris	216	438	17708,5	61,2	50,7	Derived from fact_umkm_kelurahan_sector
+453	2023	BATAM-SBD	Sungai Beduk	SEK-JAS	Jasa Personal	260	478	19568,6	51,6	48	Derived from fact_umkm_kelurahan_sector
+454	2023	BATAM-SBD	Sungai Beduk	SEK-KER	Kerajinan & Souvenir	136	192	8590,7	59	46,9	Derived from fact_umkm_kelurahan_sector
+455	2023	BATAM-SBD	Sungai Beduk	SEK-KUL	Kuliner & Makanan	375	1020	37800	49,7	45,9	Derived from fact_umkm_kelurahan_sector
+456	2023	BATAM-SBD	Sungai Beduk	SEK-LOG	Transportasi & Logistik Mikro	149	260	14218,2	57,1	47,6	Derived from fact_umkm_kelurahan_sector
+457	2023	BATAM-SBD	Sungai Beduk	SEK-OTM	Otomotif & Repair	109	176	10694,2	52	44,3	Derived from fact_umkm_kelurahan_sector
+458	2023	BATAM-SBD	Sungai Beduk	SEK-PAR	Pariwisata & Akomodasi Mikro	124	246	15832,2	64,8	47,7	Derived from fact_umkm_kelurahan_sector
+459	2023	BATAM-SBD	Sungai Beduk	SEK-PRK	Perikanan & Olahan Laut	168	309	15353,9	39,4	43	Derived from fact_umkm_kelurahan_sector
+460	2023	BATAM-SBD	Sungai Beduk	SEK-RIT	Retail & Perdagangan	310	710	34164,5	43,8	45,3	Derived from fact_umkm_kelurahan_sector
+461	2023	BATAM-SGL	Sagulung	SEK-DIG	Digital & Kreatif	241	336	34981,7	80,7	53,6	Derived from fact_umkm_kelurahan_sector
+462	2023	BATAM-SGL	Sagulung	SEK-FAS	Fashion & Aksesoris	479	981	39270,3	61	47,9	Derived from fact_umkm_kelurahan_sector
+463	2023	BATAM-SGL	Sagulung	SEK-JAS	Jasa Personal	574	963	43201,5	52,4	47,1	Derived from fact_umkm_kelurahan_sector
+464	2023	BATAM-SGL	Sagulung	SEK-KER	Kerajinan & Souvenir	297	416	18760,9	61,3	48,1	Derived from fact_umkm_kelurahan_sector
+465	2023	BATAM-SGL	Sagulung	SEK-KUL	Kuliner & Makanan	1054	2853	106243,2	50,5	48,8	Derived from fact_umkm_kelurahan_sector
+466	2023	BATAM-SGL	Sagulung	SEK-LOG	Transportasi & Logistik Mikro	338	566	32253,3	55,7	47,5	Derived from fact_umkm_kelurahan_sector
+467	2023	BATAM-SGL	Sagulung	SEK-OTM	Otomotif & Repair	247	389	24233,7	48,2	45,8	Derived from fact_umkm_kelurahan_sector
+468	2023	BATAM-SGL	Sagulung	SEK-PAR	Pariwisata & Akomodasi Mikro	265	575	33835,2	67,7	51	Derived from fact_umkm_kelurahan_sector
+469	2023	BATAM-SGL	Sagulung	SEK-PRK	Perikanan & Olahan Laut	372	740	33997,8	39,7	42,2	Derived from fact_umkm_kelurahan_sector
+470	2023	BATAM-SGL	Sagulung	SEK-RIT	Retail & Perdagangan	890	1930	98085,2	47	45,9	Derived from fact_umkm_kelurahan_sector
+471	2023	BATAM-SKP	Sekupang	SEK-DIG	Digital & Kreatif	163	246	23659,7	81,3	53,4	Derived from fact_umkm_kelurahan_sector
+472	2023	BATAM-SKP	Sekupang	SEK-FAS	Fashion & Aksesoris	346	682	28366,5	65,3	49,2	Derived from fact_umkm_kelurahan_sector
+473	2023	BATAM-SKP	Sekupang	SEK-JAS	Jasa Personal	392	712	29503,6	52,9	49,4	Derived from fact_umkm_kelurahan_sector
+474	2023	BATAM-SKP	Sekupang	SEK-KER	Kerajinan & Souvenir	202	324	12759,8	57,6	48,5	Derived from fact_umkm_kelurahan_sector
+475	2023	BATAM-SKP	Sekupang	SEK-KUL	Kuliner & Makanan	526	1264	53020,8	47,9	45,9	Derived from fact_umkm_kelurahan_sector
+476	2023	BATAM-SKP	Sekupang	SEK-LOG	Transportasi & Logistik Mikro	352	570	33589,3	56,6	49	Derived from fact_umkm_kelurahan_sector
+477	2023	BATAM-SKP	Sekupang	SEK-OTM	Otomotif & Repair	168	288	16482,8	53	48,4	Derived from fact_umkm_kelurahan_sector
+478	2023	BATAM-SKP	Sekupang	SEK-PAR	Pariwisata & Akomodasi Mikro	189	392	24131,4	68,3	51,1	Derived from fact_umkm_kelurahan_sector
+479	2023	BATAM-SKP	Sekupang	SEK-PRK	Perikanan & Olahan Laut	245	471	22391	39,5	45,5	Derived from fact_umkm_kelurahan_sector
+480	2023	BATAM-SKP	Sekupang	SEK-RIT	Retail & Perdagangan	461	974	50805,9	45,1	47	Derived from fact_umkm_kelurahan_sector
+481	2024	BATAM-BAJ	Batu Aji	SEK-DIG	Digital & Kreatif	183	287	27511,5	84,4	61,1	Derived from fact_umkm_kelurahan_sector
+482	2024	BATAM-BAJ	Batu Aji	SEK-FAS	Fashion & Aksesoris	344	659	29209,7	71,4	56,8	Derived from fact_umkm_kelurahan_sector
+483	2024	BATAM-BAJ	Batu Aji	SEK-JAS	Jasa Personal	404	674	31492,7	56,3	52,2	Derived from fact_umkm_kelurahan_sector
+484	2024	BATAM-BAJ	Batu Aji	SEK-KER	Kerajinan & Souvenir	206	307	13477,5	66	55	Derived from fact_umkm_kelurahan_sector
+485	2024	BATAM-BAJ	Batu Aji	SEK-KUL	Kuliner & Makanan	725	2094	75690	52	49,8	Derived from fact_umkm_kelurahan_sector
+486	2024	BATAM-BAJ	Batu Aji	SEK-LOG	Transportasi & Logistik Mikro	221	398	21841,9	57,6	53,5	Derived from fact_umkm_kelurahan_sector
+487	2024	BATAM-BAJ	Batu Aji	SEK-OTM	Otomotif & Repair	170	277	17274,8	51,1	55,4	Derived from fact_umkm_kelurahan_sector
+488	2024	BATAM-BAJ	Batu Aji	SEK-PAR	Pariwisata & Akomodasi Mikro	182	394	24067,6	73,7	59,2	Derived from fact_umkm_kelurahan_sector
+489	2024	BATAM-BAJ	Batu Aji	SEK-PRK	Perikanan & Olahan Laut	248	468	23474,6	35,5	49,2	Derived from fact_umkm_kelurahan_sector
+490	2024	BATAM-BAJ	Batu Aji	SEK-RIT	Retail & Perdagangan	650	1377	74193,7	52,5	50,8	Derived from fact_umkm_kelurahan_sector
+491	2024	BATAM-BAM	Batu Ampar	SEK-DIG	Digital & Kreatif	75	100	11275,2	84,7	57,1	Derived from fact_umkm_kelurahan_sector
+492	2024	BATAM-BAM	Batu Ampar	SEK-FAS	Fashion & Aksesoris	148	296	12566,9	63,9	55,2	Derived from fact_umkm_kelurahan_sector
+493	2024	BATAM-BAM	Batu Ampar	SEK-JAS	Jasa Personal	171	308	13329,7	56	49,3	Derived from fact_umkm_kelurahan_sector
+494	2024	BATAM-BAM	Batu Ampar	SEK-KER	Kerajinan & Souvenir	90	137	5888,2	65,6	55	Derived from fact_umkm_kelurahan_sector
+495	2024	BATAM-BAM	Batu Ampar	SEK-KUL	Kuliner & Makanan	228	639	23803,2	55,6	54,8	Derived from fact_umkm_kelurahan_sector
+496	2024	BATAM-BAM	Batu Ampar	SEK-LOG	Transportasi & Logistik Mikro	151	274	14923,6	62	50,8	Derived from fact_umkm_kelurahan_sector
+497	2024	BATAM-BAM	Batu Ampar	SEK-OTM	Otomotif & Repair	75	119	7621,2	51,6	50	Derived from fact_umkm_kelurahan_sector
+498	2024	BATAM-BAM	Batu Ampar	SEK-PAR	Pariwisata & Akomodasi Mikro	88	161	11637,1	75,1	57,9	Derived from fact_umkm_kelurahan_sector
+499	2024	BATAM-BAM	Batu Ampar	SEK-PRK	Perikanan & Olahan Laut	109	206	10317,4	39,1	48,1	Derived from fact_umkm_kelurahan_sector
+500	2024	BATAM-BAM	Batu Ampar	SEK-RIT	Retail & Perdagangan	214	500	24426,8	52,4	52,7	Derived from fact_umkm_kelurahan_sector
+501	2024	BATAM-BKG	Bengkong	SEK-DIG	Digital & Kreatif	180	271	27060,5	81,8	59,2	Derived from fact_umkm_kelurahan_sector
+502	2024	BATAM-BKG	Bengkong	SEK-FAS	Fashion & Aksesoris	318	622	27001,9	67,8	55,9	Derived from fact_umkm_kelurahan_sector
+503	2024	BATAM-BKG	Bengkong	SEK-JAS	Jasa Personal	356	553	27750,9	54,7	50,8	Derived from fact_umkm_kelurahan_sector
+504	2024	BATAM-BKG	Bengkong	SEK-KER	Kerajinan & Souvenir	197	309	12888,6	60,5	55,4	Derived from fact_umkm_kelurahan_sector
+505	2024	BATAM-BKG	Bengkong	SEK-KUL	Kuliner & Makanan	705	1852	73602	56,2	54,7	Derived from fact_umkm_kelurahan_sector
+506	2024	BATAM-BKG	Bengkong	SEK-LOG	Transportasi & Logistik Mikro	225	358	22237,2	57,6	53,8	Derived from fact_umkm_kelurahan_sector
+507	2024	BATAM-BKG	Bengkong	SEK-OTM	Otomotif & Repair	160	241	16258,6	52,2	49,7	Derived from fact_umkm_kelurahan_sector
+508	2024	BATAM-BKG	Bengkong	SEK-PAR	Pariwisata & Akomodasi Mikro	176	397	23274,2	70,8	54,3	Derived from fact_umkm_kelurahan_sector
+509	2024	BATAM-BKG	Bengkong	SEK-PRK	Perikanan & Olahan Laut	235	438	22244,1	45,7	51,5	Derived from fact_umkm_kelurahan_sector
+510	2024	BATAM-BKG	Bengkong	SEK-RIT	Retail & Perdagangan	632	1502	72139,1	53,4	52,8	Derived from fact_umkm_kelurahan_sector
+511	2024	BATAM-BLG	Bulang	SEK-DIG	Digital & Kreatif	12	18	1804,2	81,7	58,8	Derived from fact_umkm_kelurahan_sector
+512	2024	BATAM-BLG	Bulang	SEK-FAS	Fashion & Aksesoris	14	26	1188,6	69,7	56	Derived from fact_umkm_kelurahan_sector
+513	2024	BATAM-BLG	Bulang	SEK-JAS	Jasa Personal	17	28	1325,4	57,1	52,3	Derived from fact_umkm_kelurahan_sector
+514	2024	BATAM-BLG	Bulang	SEK-KER	Kerajinan & Souvenir	12	19	784,8	62,7	53,6	Derived from fact_umkm_kelurahan_sector
+515	2024	BATAM-BLG	Bulang	SEK-KUL	Kuliner & Makanan	22	59	2296,8	55,1	53,2	Derived from fact_umkm_kelurahan_sector
+516	2024	BATAM-BLG	Bulang	SEK-LOG	Transportasi & Logistik Mikro	12	20	1186,2	61,5	53,2	Derived from fact_umkm_kelurahan_sector
+517	2024	BATAM-BLG	Bulang	SEK-OTM	Otomotif & Repair	12	20	1219,2	58,3	55,3	Derived from fact_umkm_kelurahan_sector
+518	2024	BATAM-BLG	Bulang	SEK-PAR	Pariwisata & Akomodasi Mikro	12	25	1587	70,2	55,4	Derived from fact_umkm_kelurahan_sector
+519	2024	BATAM-BLG	Bulang	SEK-PRK	Perikanan & Olahan Laut	21	40	1987,8	42	50,3	Derived from fact_umkm_kelurahan_sector
+520	2024	BATAM-BLG	Bulang	SEK-RIT	Retail & Perdagangan	20	45	2282,8	47	52,1	Derived from fact_umkm_kelurahan_sector
+521	2024	BATAM-BLP	Belakang Padang	SEK-DIG	Digital & Kreatif	14	20	2104,9	81	60,2	Derived from fact_umkm_kelurahan_sector
+522	2024	BATAM-BLP	Belakang Padang	SEK-FAS	Fashion & Aksesoris	29	56	2462,2	67,3	55,1	Derived from fact_umkm_kelurahan_sector
+523	2024	BATAM-BLP	Belakang Padang	SEK-JAS	Jasa Personal	36	60	2806,4	57,6	50,6	Derived from fact_umkm_kelurahan_sector
+524	2024	BATAM-BLP	Belakang Padang	SEK-KER	Kerajinan & Souvenir	20	29	1308,6	64,8	56,5	Derived from fact_umkm_kelurahan_sector
+525	2024	BATAM-BLP	Belakang Padang	SEK-KUL	Kuliner & Makanan	46	127	4802,4	53,3	50,5	Derived from fact_umkm_kelurahan_sector
+526	2024	BATAM-BLP	Belakang Padang	SEK-LOG	Transportasi & Logistik Mikro	21	33	2075,5	61	53,4	Derived from fact_umkm_kelurahan_sector
+527	2024	BATAM-BLP	Belakang Padang	SEK-OTM	Otomotif & Repair	15	24	1524	52,1	51,4	Derived from fact_umkm_kelurahan_sector
+528	2024	BATAM-BLP	Belakang Padang	SEK-PAR	Pariwisata & Akomodasi Mikro	15	33	1983,7	73,5	55,5	Derived from fact_umkm_kelurahan_sector
+529	2024	BATAM-BLP	Belakang Padang	SEK-PRK	Perikanan & Olahan Laut	45	77	4259,4	41,3	50,3	Derived from fact_umkm_kelurahan_sector
+530	2024	BATAM-BLP	Belakang Padang	SEK-RIT	Retail & Perdagangan	45	108	5136,7	47,6	52,5	Derived from fact_umkm_kelurahan_sector
+531	2024	BATAM-BTK	Batam Kota	SEK-DIG	Digital & Kreatif	371	499	55774,7	83,2	58,9	Derived from fact_umkm_kelurahan_sector
+532	2024	BATAM-BTK	Batam Kota	SEK-FAS	Fashion & Aksesoris	386	773	32776	67,4	54,5	Derived from fact_umkm_kelurahan_sector
+533	2024	BATAM-BTK	Batam Kota	SEK-JAS	Jasa Personal	458	800	35702	57,6	50,4	Derived from fact_umkm_kelurahan_sector
+534	2024	BATAM-BTK	Batam Kota	SEK-KER	Kerajinan & Souvenir	251	417	16421,4	66,7	52,6	Derived from fact_umkm_kelurahan_sector
+535	2024	BATAM-BTK	Batam Kota	SEK-KUL	Kuliner & Makanan	645	1750	67338	55,6	54,7	Derived from fact_umkm_kelurahan_sector
+536	2024	BATAM-BTK	Batam Kota	SEK-LOG	Transportasi & Logistik Mikro	290	498	28661,2	59,9	51,4	Derived from fact_umkm_kelurahan_sector
+537	2024	BATAM-BTK	Batam Kota	SEK-OTM	Otomotif & Repair	209	346	21237,6	53	52	Derived from fact_umkm_kelurahan_sector
+538	2024	BATAM-BTK	Batam Kota	SEK-PAR	Pariwisata & Akomodasi Mikro	225	492	29754	73,3	55,7	Derived from fact_umkm_kelurahan_sector
+539	2024	BATAM-BTK	Batam Kota	SEK-PRK	Perikanan & Olahan Laut	293	546	27734,2	40,4	46,5	Derived from fact_umkm_kelurahan_sector
+540	2024	BATAM-BTK	Batam Kota	SEK-RIT	Retail & Perdagangan	586	1392	66888,4	47	51,4	Derived from fact_umkm_kelurahan_sector
+541	2024	BATAM-GLG	Galang	SEK-DIG	Digital & Kreatif	16	21	2405,6	85,8	58,5	Derived from fact_umkm_kelurahan_sector
+542	2024	BATAM-GLG	Galang	SEK-FAS	Fashion & Aksesoris	23	44	1952,7	67,3	54,1	Derived from fact_umkm_kelurahan_sector
+543	2024	BATAM-GLG	Galang	SEK-JAS	Jasa Personal	27	48	2104,9	56,6	53,7	Derived from fact_umkm_kelurahan_sector
+544	2024	BATAM-GLG	Galang	SEK-KER	Kerajinan & Souvenir	16	26	1046,4	64,8	52,5	Derived from fact_umkm_kelurahan_sector
+545	2024	BATAM-GLG	Galang	SEK-KUL	Kuliner & Makanan	37	93	3862,8	54	52,1	Derived from fact_umkm_kelurahan_sector
+546	2024	BATAM-GLG	Galang	SEK-LOG	Transportasi & Logistik Mikro	16	26	1581,6	58,9	53,4	Derived from fact_umkm_kelurahan_sector
+547	2024	BATAM-GLG	Galang	SEK-OTM	Otomotif & Repair	16	27	1625,6	51,6	51,8	Derived from fact_umkm_kelurahan_sector
+548	2024	BATAM-GLG	Galang	SEK-PAR	Pariwisata & Akomodasi Mikro	22	42	2909,2	73,6	58,4	Derived from fact_umkm_kelurahan_sector
+549	2024	BATAM-GLG	Galang	SEK-PRK	Perikanan & Olahan Laut	32	60	3028,9	42,6	49,8	Derived from fact_umkm_kelurahan_sector
+550	2024	BATAM-GLG	Galang	SEK-RIT	Retail & Perdagangan	32	79	3652,7	51,7	54,6	Derived from fact_umkm_kelurahan_sector
+551	2024	BATAM-LBJ	Lubuk Baja	SEK-DIG	Digital & Kreatif	126	175	18942,4	79,8	57,4	Derived from fact_umkm_kelurahan_sector
+552	2024	BATAM-LBJ	Lubuk Baja	SEK-FAS	Fashion & Aksesoris	244	483	20718,5	69,2	53,4	Derived from fact_umkm_kelurahan_sector
+553	2024	BATAM-LBJ	Lubuk Baja	SEK-JAS	Jasa Personal	283	457	22060,4	57	53,6	Derived from fact_umkm_kelurahan_sector
+554	2024	BATAM-LBJ	Lubuk Baja	SEK-KER	Kerajinan & Souvenir	155	218	10140,7	63,6	52,8	Derived from fact_umkm_kelurahan_sector
+555	2024	BATAM-LBJ	Lubuk Baja	SEK-KUL	Kuliner & Makanan	365	906	38106	52,7	51,3	Derived from fact_umkm_kelurahan_sector
+556	2024	BATAM-LBJ	Lubuk Baja	SEK-LOG	Transportasi & Logistik Mikro	165	270	16307,3	61,8	55,1	Derived from fact_umkm_kelurahan_sector
+557	2024	BATAM-LBJ	Lubuk Baja	SEK-OTM	Otomotif & Repair	124	200	12600,4	52,3	52,9	Derived from fact_umkm_kelurahan_sector
+558	2024	BATAM-LBJ	Lubuk Baja	SEK-PAR	Pariwisata & Akomodasi Mikro	237	453	31340,9	71,5	57,6	Derived from fact_umkm_kelurahan_sector
+559	2024	BATAM-LBJ	Lubuk Baja	SEK-PRK	Perikanan & Olahan Laut	183	341	17322,1	38,7	51,1	Derived from fact_umkm_kelurahan_sector
+560	2024	BATAM-LBJ	Lubuk Baja	SEK-RIT	Retail & Perdagangan	328	823	37439,2	48,7	48,4	Derived from fact_umkm_kelurahan_sector
+561	2024	BATAM-NGS	Nongsa	SEK-DIG	Digital & Kreatif	214	311	32171,9	82,7	57,7	Derived from fact_umkm_kelurahan_sector
+562	2024	BATAM-NGS	Nongsa	SEK-FAS	Fashion & Aksesoris	233	455	19784,5	64	52,6	Derived from fact_umkm_kelurahan_sector
+563	2024	BATAM-NGS	Nongsa	SEK-JAS	Jasa Personal	277	474	21592,7	61,6	51,9	Derived from fact_umkm_kelurahan_sector
+564	2024	BATAM-NGS	Nongsa	SEK-KER	Kerajinan & Souvenir	144	206	9421,1	71,2	57,9	Derived from fact_umkm_kelurahan_sector
+565	2024	BATAM-NGS	Nongsa	SEK-KUL	Kuliner & Makanan	367	1010	38314,8	54,5	51,5	Derived from fact_umkm_kelurahan_sector
+566	2024	BATAM-NGS	Nongsa	SEK-LOG	Transportasi & Logistik Mikro	158	255	15615,4	62,2	53,5	Derived from fact_umkm_kelurahan_sector
+567	2024	BATAM-NGS	Nongsa	SEK-OTM	Otomotif & Repair	117	200	11889,1	58,5	53,1	Derived from fact_umkm_kelurahan_sector
+568	2024	BATAM-NGS	Nongsa	SEK-PAR	Pariwisata & Akomodasi Mikro	218	426	28828,3	69,6	55	Derived from fact_umkm_kelurahan_sector
+569	2024	BATAM-NGS	Nongsa	SEK-PRK	Perikanan & Olahan Laut	179	345	16943,5	40,7	52	Derived from fact_umkm_kelurahan_sector
+570	2024	BATAM-NGS	Nongsa	SEK-RIT	Retail & Perdagangan	324	747	36982,5	53	49,4	Derived from fact_umkm_kelurahan_sector
+571	2024	BATAM-SBD	Sungai Beduk	SEK-DIG	Digital & Kreatif	124	178	18641,7	82,2	60,4	Derived from fact_umkm_kelurahan_sector
+572	2024	BATAM-SBD	Sungai Beduk	SEK-FAS	Fashion & Aksesoris	236	457	20039,2	71,5	52,7	Derived from fact_umkm_kelurahan_sector
+573	2024	BATAM-SBD	Sungai Beduk	SEK-JAS	Jasa Personal	283	531	22060,4	55,7	52,8	Derived from fact_umkm_kelurahan_sector
+574	2024	BATAM-SBD	Sungai Beduk	SEK-KER	Kerajinan & Souvenir	148	245	9682,7	68,1	54,5	Derived from fact_umkm_kelurahan_sector
+575	2024	BATAM-SBD	Sungai Beduk	SEK-KUL	Kuliner & Makanan	393	992	41029,2	56,3	53,2	Derived from fact_umkm_kelurahan_sector
+576	2024	BATAM-SBD	Sungai Beduk	SEK-LOG	Transportasi & Logistik Mikro	159	254	15714,2	63,8	55,4	Derived from fact_umkm_kelurahan_sector
+577	2024	BATAM-SBD	Sungai Beduk	SEK-OTM	Otomotif & Repair	121	200	12295,4	56,3	53,2	Derived from fact_umkm_kelurahan_sector
+578	2024	BATAM-SBD	Sungai Beduk	SEK-PAR	Pariwisata & Akomodasi Mikro	138	297	18249,1	69,4	55,1	Derived from fact_umkm_kelurahan_sector
+579	2024	BATAM-SBD	Sungai Beduk	SEK-PRK	Perikanan & Olahan Laut	182	344	17227,4	43,6	53,8	Derived from fact_umkm_kelurahan_sector
+580	2024	BATAM-SBD	Sungai Beduk	SEK-RIT	Retail & Perdagangan	317	737	36183,7	50	51	Derived from fact_umkm_kelurahan_sector
+581	2024	BATAM-SGL	Sagulung	SEK-DIG	Digital & Kreatif	256	379	38486	83,5	58,7	Derived from fact_umkm_kelurahan_sector
+582	2024	BATAM-SGL	Sagulung	SEK-FAS	Fashion & Aksesoris	504	982	42795,7	65,8	55	Derived from fact_umkm_kelurahan_sector
+583	2024	BATAM-SGL	Sagulung	SEK-JAS	Jasa Personal	606	1104	47238,9	57	55,1	Derived from fact_umkm_kelurahan_sector
+584	2024	BATAM-SGL	Sagulung	SEK-KER	Kerajinan & Souvenir	325	491	21262,8	62,1	54,9	Derived from fact_umkm_kelurahan_sector
+585	2024	BATAM-SGL	Sagulung	SEK-KUL	Kuliner & Makanan	1079	2778	112647,6	54,6	49,8	Derived from fact_umkm_kelurahan_sector
+586	2024	BATAM-SGL	Sagulung	SEK-LOG	Transportasi & Logistik Mikro	328	541	32417	61,4	52,5	Derived from fact_umkm_kelurahan_sector
+587	2024	BATAM-SGL	Sagulung	SEK-OTM	Otomotif & Repair	250	410	25403,9	52	52,4	Derived from fact_umkm_kelurahan_sector
+588	2024	BATAM-SGL	Sagulung	SEK-PAR	Pariwisata & Akomodasi Mikro	290	582	38349,6	72,5	56,8	Derived from fact_umkm_kelurahan_sector
+589	2024	BATAM-SGL	Sagulung	SEK-PRK	Perikanan & Olahan Laut	357	679	33792,1	42,2	48,1	Derived from fact_umkm_kelurahan_sector
+590	2024	BATAM-SGL	Sagulung	SEK-RIT	Retail & Perdagangan	982	2276	112089,3	50,4	49,4	Derived from fact_umkm_kelurahan_sector
+591	2024	BATAM-SKP	Sekupang	SEK-DIG	Digital & Kreatif	187	254	28112,9	86,6	59,3	Derived from fact_umkm_kelurahan_sector
+592	2024	BATAM-SKP	Sekupang	SEK-FAS	Fashion & Aksesoris	350	719	29719,2	66,5	56,7	Derived from fact_umkm_kelurahan_sector
+593	2024	BATAM-SKP	Sekupang	SEK-JAS	Jasa Personal	436	736	33987,1	59,3	53,4	Derived from fact_umkm_kelurahan_sector
+594	2024	BATAM-SKP	Sekupang	SEK-KER	Kerajinan & Souvenir	232	333	15178,4	64,1	53,2	Derived from fact_umkm_kelurahan_sector
+595	2024	BATAM-SKP	Sekupang	SEK-KUL	Kuliner & Makanan	545	1347	56898	55,3	49,4	Derived from fact_umkm_kelurahan_sector
+596	2024	BATAM-SKP	Sekupang	SEK-LOG	Transportasi & Logistik Mikro	362	603	35777,3	60,2	52,9	Derived from fact_umkm_kelurahan_sector
+597	2024	BATAM-SKP	Sekupang	SEK-OTM	Otomotif & Repair	171	275	17376,4	53,6	50,8	Derived from fact_umkm_kelurahan_sector
+598	2024	BATAM-SKP	Sekupang	SEK-PAR	Pariwisata & Akomodasi Mikro	205	423	27109,2	74,3	55,8	Derived from fact_umkm_kelurahan_sector
+599	2024	BATAM-SKP	Sekupang	SEK-PRK	Perikanan & Olahan Laut	269	510	25462,5	36,9	50	Derived from fact_umkm_kelurahan_sector
+600	2024	BATAM-SKP	Sekupang	SEK-RIT	Retail & Perdagangan	501	1106	57186,2	48	49,6	Derived from fact_umkm_kelurahan_sector

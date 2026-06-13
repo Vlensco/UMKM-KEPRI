@@ -1,0 +1,6 @@
+year	city	pdrb_current_trillion_idr	pdrb_constant_2010_trillion_idr	ipm	poverty_rate_pct	unemployment_rate_pct	data_status
+2020	Kota Batam	160,4	107	81,02	5,05	11,79	BPS official for 2024; prior years compiled/illustrative for trend
+2021	Kota Batam	172,2	110,7	81,29	5,14	10,78	BPS official for 2024; prior years compiled/illustrative for trend
+2022	Kota Batam	193,8	119,4	81,67	5,19	9,56	BPS official for 2024; prior years compiled/illustrative for trend
+2023	Kota Batam	215,6	127,7	82,64	5,02	8,14	BPS official for 2024; prior years compiled/illustrative for trend
+2024	Kota Batam	233,05	135,51	83,32	4,85	7,75	BPS official for 2024; prior years compiled/illustrative for trend

@@ -1,0 +1,6 @@
+year	year_label	period_type	data_status
+2020	2020	Semester/Annual	Historical
+2021	2021	Semester/Annual	Historical
+2022	2022	Semester/Annual	Historical
+2023	2023	Semester/Annual	Historical
+2024	2024	Semester/Annual	Latest official macro year

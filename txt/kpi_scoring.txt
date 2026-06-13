@@ -1,0 +1,13 @@
+year	kecamatan_id	kecamatan	umkm_2024	umkm_2023	growth_yoy_pct	density_per_100k_pop	digital_adoption_pct	formalization_rate_pct	scale_score	growth_score	intervention_need_score	opportunity_score	priority_level	dominant_sector
+2024	BATAM-BTK	Batam Kota	3714	3498	6,17	2615,5	59,3	52,9	74,6	82	54,7	69,4	Low	Kuliner & Makanan
+2024	BATAM-SKP	Sekupang	3258	3044	7,03	1939,3	58,5	52,5	65,5	87,2	53,7	67,2	Low	Kuliner & Makanan
+2024	BATAM-SGL	Sagulung	4977	4757	4,62	2370	57,6	52,3	100	72,7	59,7	75,4	Medium	Kuliner & Makanan
+2024	BATAM-BAJ	Batu Aji	3333	3048	9,35	2397,8	57,6	53	67	100	56,8	70,8	Medium	Kuliner & Makanan
+2024	BATAM-BKG	Bengkong	3184	2948	8,01	2412,1	58,3	53,7	64	93	66,3	68,3	Medium	Kuliner & Makanan
+2024	BATAM-LBJ	Lubuk Baja	2210	2090	5,74	2540,2	58,3	52,9	44,4	79,4	58,8	57,9	Medium	Kuliner & Makanan
+2024	BATAM-BAM	Batu Ampar	1349	1259	7,15	2075,4	58,8	52,9	27,1	87,9	44,1	54,1	Low	Kuliner & Makanan
+2024	BATAM-NGS	Nongsa	2231	2078	7,36	2124,8	61,1	53	44,8	89,2	48,2	61,2	Low	Kuliner & Makanan
+2024	BATAM-SBD	Sungai Beduk	2101	1946	7,97	1875,9	59,7	53,6	42,2	92,8	48,5	60,9	Low	Kuliner & Makanan
+2024	BATAM-BLP	Belakang Padang	286	267	7,12	1300	56,2	52,7	5,7	87,7	57,4	45,9	Medium	Kuliner & Makanan
+2024	BATAM-BLG	Bulang	154	150	2,67	1184,6	58,4	53,6	3,1	61	50,7	39	Low	Kuliner & Makanan
+2024	BATAM-GLG	Galang	237	230	3,04	1481,2	58,6	53,6	4,8	63,3	51,5	40,2	Low	Kuliner & Makanan

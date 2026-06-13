@@ -1,0 +1,13 @@
+year	kecamatan_id	kecamatan	priority_level	dominant_sector	recommended_program	recommendation_text	intervention_need_score	opportunity_score
+2024	BATAM-BTK	Batam Kota	Low	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	54,7	69,4
+2024	BATAM-SKP	Sekupang	Low	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	53,7	67,2
+2024	BATAM-SGL	Sagulung	Medium	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	59,7	75,4
+2024	BATAM-BAJ	Batu Aji	Medium	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	56,8	70,8
+2024	BATAM-BKG	Bengkong	Medium	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	66,3	68,3
+2024	BATAM-LBJ	Lubuk Baja	Medium	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	58,8	57,9
+2024	BATAM-BAM	Batu Ampar	Low	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	44,1	54,1
+2024	BATAM-NGS	Nongsa	Low	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	48,2	61,2
+2024	BATAM-SBD	Sungai Beduk	Low	Kuliner & Makanan	Sertifikasi Halal & Legalitas	Prioritaskan legalitas usaha, NIB, sertifikasi halal/PIRT, dan pencatatan sederhana.	48,5	60,9
+2024	BATAM-BLP	Belakang Padang	Medium	Kuliner & Makanan	Blue Economy Support	Prioritaskan Blue Economy Support + akses logistik laut + packaging olahan laut.	57,4	45,9
+2024	BATAM-BLG	Bulang	Low	Kuliner & Makanan	Blue Economy Support	Prioritaskan Blue Economy Support + akses logistik laut + packaging olahan laut.	50,7	39
+2024	BATAM-GLG	Galang	Low	Kuliner & Makanan	Blue Economy Support	Prioritaskan Blue Economy Support + akses logistik laut + packaging olahan laut.	51,5	40,2

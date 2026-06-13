@@ -1,0 +1,11 @@
+sector_id	sector_name	sector_group	base_weight	employment_multiplier	digital_base_pct	default_program
+SEK-KUL	Kuliner & Makanan	Consumer Daily	1,3	2,4	38	Sertifikasi halal, packaging, food delivery onboarding
+SEK-RIT	Retail & Perdagangan	Consumer Daily	1,18	2,1	34	POS sederhana, stok digital, payment QRIS
+SEK-JAS	Jasa Personal	Service	0,98	1,6	41	Booking online, katalog jasa, CRM WhatsApp
+SEK-FAS	Fashion & Aksesoris	Creative	0,82	1,8	52	Branding, foto produk, marketplace
+SEK-KER	Kerajinan & Souvenir	Creative Tourism	0,52	1,4	49	Kurasi produk, outlet wisata, ekspor kecil
+SEK-PAR	Pariwisata & Akomodasi Mikro	Tourism	0,47	1,9	57	Bundling wisata, OTA, travel content
+SEK-LOG	Transportasi & Logistik Mikro	Mobility	0,56	1,5	45	Kemitraan kurir, rute island, platform logistik
+SEK-DIG	Digital & Kreatif	Digital Service	0,32	1,3	68	Inkubasi startup, B2B matching, pelatihan AI/basic digital
+SEK-PRK	Perikanan & Olahan Laut	Blue Economy	0,62	1,7	25	Cold chain, packaging, izin edar, akses pasar
+SEK-OTM	Otomotif & Repair	Technical Service	0,41	1,5	37	Standar layanan, supplier parts, marketplace jasa

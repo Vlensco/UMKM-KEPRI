@@ -1,0 +1,7 @@
+program_id	program_name	program_category	cost_per_beneficiary_idr	program_description
+PRG-DIG	Digitalisasi UMKM	Digital	600000	QRIS, katalog digital, marketplace, WA Business
+PRG-HAL	Sertifikasi Halal & Legalitas	Compliance	450000	NIB, halal, PIRT, izin edar
+PRG-MOD	Akses Pembiayaan Mikro	Finance	900000	KUR, koperasi, pencatatan kas
+PRG-PKG	Packaging & Branding	Brand	750000	kemasan, logo, foto produk
+PRG-EXP	Scale-up Ekspor/Antar Pulau	Scale Up	1200000	kurasi produk, cross-border, distributor
+PRG-SEA	Blue Economy Support	Fisheries	800000	perikanan, olahan laut, cold storage

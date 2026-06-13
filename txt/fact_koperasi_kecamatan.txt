@@ -1,0 +1,37 @@
+year	semester	kecamatan_id	kecamatan	active_cooperative	inactive_cooperative	total_cooperative	data_status	source_url
+2023	Semester 1	BATAM-BTK	Batam Kota	162	753	915	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-BTK	Batam Kota	54		54	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-BTK	Batam Kota	54	114	168	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-SKP	Sekupang	36	111	147	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-SKP	Sekupang	40		40	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-SKP	Sekupang	40	113	153	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-SGL	Sagulung	27	79	106	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-SGL	Sagulung	26		26	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-SGL	Sagulung	30	79	109	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-BAJ	Batu Aji		54	54	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-BAJ	Batu Aji			0	n/a	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-BAJ	Batu Aji	24	57	81	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-BKG	Bengkong	10	44	54	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-BKG	Bengkong	11		11	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-BKG	Bengkong	15	43	58	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-LBJ	Lubuk Baja	15	93	108	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-LBJ	Lubuk Baja	13		13	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-LBJ	Lubuk Baja	15	92	107	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-BAM	Batu Ampar		82	82	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-BAM	Batu Ampar			0	n/a	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-BAM	Batu Ampar	12	82	94	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-NGS	Nongsa	21	43	64	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-NGS	Nongsa	22		22	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-NGS	Nongsa	22	43	65	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-SBD	Sungai Beduk	28	62	90	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-SBD	Sungai Beduk	29		29	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-SBD	Sungai Beduk	31	62	93	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-BLP	Belakang Padang	6	24	30	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-BLP	Belakang Padang	6		6	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-BLP	Belakang Padang	4	26	30	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-BLG	Bulang	4	27	31	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-BLG	Bulang	5		5	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-BLG	Bulang	4	28	32	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul
+2023	Semester 1	BATAM-GLG	Galang	7	21	28	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2024	Semester 1	BATAM-GLG	Galang	10		10	Official	https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-aktif-menurut-kecamatan-di-kota-batam-9m8zrz
+2025	Annual	BATAM-GLG	Galang	11	21	32	Official	https://satudata.batam.go.id/data/detail/statistikjumlahkoperasiaktifdankoperasitidakaktifmenurutkecamatantahun202320250vxpuul

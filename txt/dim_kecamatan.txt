@@ -1,0 +1,13 @@
+kecamatan_id	kecamatan	kota	provinsi	cluster	area_km2_est	population_2024_est	density_per_km2_est	strategic_role	data_status
+BATAM-BTK	Batam Kota	Kota Batam	Kepulauan Riau	Central Business District	38	142000	3736,8	Pusat pemerintahan, jasa, perdagangan modern	Official + analytical enrich
+BATAM-SKP	Sekupang	Kota Batam	Kepulauan Riau	Port & Mixed Residential	106	168000	1584,9	Pelabuhan, layanan publik, residensial	Official + analytical enrich
+BATAM-SGL	Sagulung	Kota Batam	Kepulauan Riau	Industrial Residential	63	210000	3333,3	Kawasan pekerja industri, pasar konsumsi besar	Official + analytical enrich
+BATAM-BAJ	Batu Aji	Kota Batam	Kepulauan Riau	Industrial Residential	44	139000	3159,1	Permukiman pekerja, jasa harian, kuliner	Official + analytical enrich
+BATAM-BKG	Bengkong	Kota Batam	Kepulauan Riau	Dense Residential	17	132000	7764,7	Hunian padat, perdagangan dan jasa lokal	Official + analytical enrich
+BATAM-LBJ	Lubuk Baja	Kota Batam	Kepulauan Riau	Commercial Tourism	12	87000	7250	Hotel, kuliner, perdagangan, hiburan	Official + analytical enrich
+BATAM-BAM	Batu Ampar	Kota Batam	Kepulauan Riau	Port Industrial	21	65000	3095,2	Pelabuhan, pergudangan, logistik	Official + analytical enrich
+BATAM-NGS	Nongsa	Kota Batam	Kepulauan Riau	Tourism & Tech Park	290	105000	362,1	Pariwisata, resort, digital park	Official + analytical enrich
+BATAM-SBD	Sungai Beduk	Kota Batam	Kepulauan Riau	Industrial Corridor	120	112000	933,3	Kawasan industri dan permukiman	Official + analytical enrich
+BATAM-BLP	Belakang Padang	Kota Batam	Kepulauan Riau	Island Community	69	22000	318,8	Pulau penyangga, perikanan dan transportasi laut	Official + analytical enrich
+BATAM-BLG	Bulang	Kota Batam	Kepulauan Riau	Island Fisheries	158	13000	82,3	Perikanan, pulau kecil, ekonomi laut	Official + analytical enrich
+BATAM-GLG	Galang	Kota Batam	Kepulauan Riau	Island Tourism Fisheries	200	16000	80	Pariwisata bahari, perikanan, jembatan Barelang	Official + analytical enrich

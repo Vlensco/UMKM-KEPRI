@@ -1,0 +1,66 @@
+kelurahan_id	kelurahan	kecamatan_id	kecamatan	kota	cluster	distribution_weight
+BATAM-BTK-KEL01	Belian	BATAM-BTK	Batam Kota	Kota Batam	Central Business District	1,042
+BATAM-BTK-KEL02	Taman Baloi	BATAM-BTK	Batam Kota	Kota Batam	Central Business District	0,858
+BATAM-BTK-KEL03	Sungai Panas	BATAM-BTK	Batam Kota	Kota Batam	Central Business District	0,933
+BATAM-BTK-KEL04	Baloi Permai	BATAM-BTK	Batam Kota	Kota Batam	Central Business District	0,917
+BATAM-BTK-KEL05	Teluk Tering	BATAM-BTK	Batam Kota	Kota Batam	Central Business District	1,071
+BATAM-BTK-KEL06	Sukajadi	BATAM-BTK	Batam Kota	Kota Batam	Central Business District	1,053
+BATAM-SKP-KEL01	Tanjung Riau	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	1,118
+BATAM-SKP-KEL02	Tiban Indah	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	0,876
+BATAM-SKP-KEL03	Tiban Baru	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	0,977
+BATAM-SKP-KEL04	Tiban Lama	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	0,859
+BATAM-SKP-KEL05	Patam Lestari	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	0,916
+BATAM-SKP-KEL06	Sungai Harapan	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	1,002
+BATAM-SKP-KEL07	Tanjung Pinggir	BATAM-SKP	Sekupang	Kota Batam	Port & Mixed Residential	0,858
+BATAM-SGL-KEL01	Tembesi	BATAM-SGL	Sagulung	Kota Batam	Industrial Residential	0,91
+BATAM-SGL-KEL02	Sungai Langkai	BATAM-SGL	Sagulung	Kota Batam	Industrial Residential	1,045
+BATAM-SGL-KEL03	Sungai Lekop	BATAM-SGL	Sagulung	Kota Batam	Industrial Residential	1,013
+BATAM-SGL-KEL04	Sagulung Kota	BATAM-SGL	Sagulung	Kota Batam	Industrial Residential	0,916
+BATAM-SGL-KEL05	Sungai Pelunggut	BATAM-SGL	Sagulung	Kota Batam	Industrial Residential	1,027
+BATAM-SGL-KEL06	Sungai Binti	BATAM-SGL	Sagulung	Kota Batam	Industrial Residential	1,093
+BATAM-BAJ-KEL01	Bukit Tempayan	BATAM-BAJ	Batu Aji	Kota Batam	Industrial Residential	0,852
+BATAM-BAJ-KEL02	Buliang	BATAM-BAJ	Batu Aji	Kota Batam	Industrial Residential	1,092
+BATAM-BAJ-KEL03	Kibing	BATAM-BAJ	Batu Aji	Kota Batam	Industrial Residential	1,059
+BATAM-BAJ-KEL04	Tanjung Uncang	BATAM-BAJ	Batu Aji	Kota Batam	Industrial Residential	0,952
+BATAM-BKG-KEL01	Bengkong Laut	BATAM-BKG	Bengkong	Kota Batam	Dense Residential	0,897
+BATAM-BKG-KEL02	Bengkong Indah	BATAM-BKG	Bengkong	Kota Batam	Dense Residential	1,137
+BATAM-BKG-KEL03	Sadai	BATAM-BKG	Bengkong	Kota Batam	Dense Residential	0,951
+BATAM-BKG-KEL04	Tanjung Buntung	BATAM-BKG	Bengkong	Kota Batam	Dense Residential	0,878
+BATAM-LBJ-KEL01	Baloi Indah	BATAM-LBJ	Lubuk Baja	Kota Batam	Commercial Tourism	0,879
+BATAM-LBJ-KEL02	Batu Selicin	BATAM-LBJ	Lubuk Baja	Kota Batam	Commercial Tourism	1,104
+BATAM-LBJ-KEL03	Kampung Pelita	BATAM-LBJ	Lubuk Baja	Kota Batam	Commercial Tourism	1,031
+BATAM-LBJ-KEL04	Lubuk Baja Kota	BATAM-LBJ	Lubuk Baja	Kota Batam	Commercial Tourism	1,092
+BATAM-LBJ-KEL05	Tanjung Uma	BATAM-LBJ	Lubuk Baja	Kota Batam	Commercial Tourism	1,069
+BATAM-BAM-KEL01	Batu Merah	BATAM-BAM	Batu Ampar	Kota Batam	Port Industrial	1,011
+BATAM-BAM-KEL02	Kampung Seraya	BATAM-BAM	Batu Ampar	Kota Batam	Port Industrial	1,142
+BATAM-BAM-KEL03	Sungai Jodoh	BATAM-BAM	Batu Ampar	Kota Batam	Port Industrial	0,964
+BATAM-BAM-KEL04	Tanjung Sengkuang	BATAM-BAM	Batu Ampar	Kota Batam	Port Industrial	1,016
+BATAM-NGS-KEL01	Batu Besar	BATAM-NGS	Nongsa	Kota Batam	Tourism & Tech Park	1,099
+BATAM-NGS-KEL02	Kabil	BATAM-NGS	Nongsa	Kota Batam	Tourism & Tech Park	1,036
+BATAM-NGS-KEL03	Ngenang	BATAM-NGS	Nongsa	Kota Batam	Tourism & Tech Park	1,109
+BATAM-NGS-KEL04	Sambau	BATAM-NGS	Nongsa	Kota Batam	Tourism & Tech Park	1,023
+BATAM-SBD-KEL01	Duriangkang	BATAM-SBD	Sungai Beduk	Kota Batam	Industrial Corridor	1,061
+BATAM-SBD-KEL02	Mangsang	BATAM-SBD	Sungai Beduk	Kota Batam	Industrial Corridor	0,864
+BATAM-SBD-KEL03	Muka Kuning	BATAM-SBD	Sungai Beduk	Kota Batam	Industrial Corridor	0,918
+BATAM-SBD-KEL04	Tanjung Piayu	BATAM-SBD	Sungai Beduk	Kota Batam	Industrial Corridor	0,937
+BATAM-BLP-KEL01	Kasui	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	0,874
+BATAM-BLP-KEL02	Pecung	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	0,92
+BATAM-BLP-KEL03	Pecong	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	0,88
+BATAM-BLP-KEL04	Pemping	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	0,933
+BATAM-BLP-KEL05	Pulau Terong	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	1,041
+BATAM-BLP-KEL06	Sekanak Raya	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	0,959
+BATAM-BLP-KEL07	Tanjung Sari	BATAM-BLP	Belakang Padang	Kota Batam	Island Community	0,961
+BATAM-BLG-KEL01	Batu Legong	BATAM-BLG	Bulang	Kota Batam	Island Fisheries	0,913
+BATAM-BLG-KEL02	Bulang Lintang	BATAM-BLG	Bulang	Kota Batam	Island Fisheries	0,93
+BATAM-BLG-KEL03	Pantai Gelam	BATAM-BLG	Bulang	Kota Batam	Island Fisheries	1,131
+BATAM-BLG-KEL04	Pulau Buluh	BATAM-BLG	Bulang	Kota Batam	Island Fisheries	1,044
+BATAM-BLG-KEL05	Setokok	BATAM-BLG	Bulang	Kota Batam	Island Fisheries	1,033
+BATAM-BLG-KEL06	Temoyong	BATAM-BLG	Bulang	Kota Batam	Island Fisheries	0,901
+BATAM-GLG-KEL01	Air Raja	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	1,069
+BATAM-GLG-KEL02	Galang Baru	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	0,899
+BATAM-GLG-KEL03	Karas	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	0,964
+BATAM-GLG-KEL04	Pulau Abang	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	1,147
+BATAM-GLG-KEL05	Rempang Cate	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	1,042
+BATAM-GLG-KEL06	Sembulang	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	1,017
+BATAM-GLG-KEL07	Sijantung	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	1,055
+BATAM-GLG-KEL08	Subang Mas	BATAM-GLG	Galang	Kota Batam	Island Tourism Fisheries	1,103
